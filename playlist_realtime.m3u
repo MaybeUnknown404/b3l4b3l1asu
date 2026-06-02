@@ -1,0 +1,203 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/drm.kt?id=21593&type=drm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tI4l2s5Hly9erfDQ9eyHvp078VI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113117/8651b0.jpg", Philippines vs Australia
+https://susu2.indi2.workers.dev/vidx.mpd?id=21593&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/drm.kt?id=21593&type=drm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oXm9VDgKYLHoQQTn_S-k-3T0W7Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113118/89965c.jpg", Myanmar vs Vietnam
+https://susu2.indi2.workers.dev/vidx.mpd?id=21593&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/drm.kt?id=21593&type=drm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/t2H2Xf_EEHjFgfQVfsnqB4I-lew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5113119/8d6054.jpg", Timor-Leste vs Indonesia
+https://susu2.indi2.workers.dev/vidx.mpd?id=21593&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/drm.kt?id=21593&type=drm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qwrmrIZyyCQe3WCiqzmYcCTm8w4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115044/068eb8.jpg", Brunei Darussalam vs Malaysia
+https://susu2.indi2.workers.dev/vidx.mpd?id=21593&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/drm.kt?id=21593&type=drm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OjqbAbBJdwjpzDR92OJG1vGwChM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115045/8d8cfb.jpg", Singapore vs Thailand
+https://susu2.indi2.workers.dev/vidx.mpd?id=21593&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/drm.kt?id=21593&type=drm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RjVb0B38pSVlJWsqF1slPNKdZ-g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115046/486824.jpg", Cambodia vs Philippines
+https://susu2.indi2.workers.dev/vidx.mpd?id=21593&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=19388&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8zu5Oo5kfOJo4mgCqubVGiHS18o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5114960/643241.jpg", Rajadamnern 2026 Super Flyweight Title
+https://susu2.indi2.workers.dev/index.mpd?id=19388&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ux21rtztXiYqtQQxi6_nRwhpFwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115070/469955.jpg", Practice
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fOZhA0-Eziz82TU5NCcWmiMDeBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115071/ad5351.jpg", Practice
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/azFc4aoV4BUgMcMHxy4Cwu8AqLs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115072/6c22ee.jpg", Qualifying
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/SD-sO7clEKF299dJ6AGQPNH27Ls=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115073/3efd97.jpg", Practice 1
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Mw14ZAt_K5g4APMrGtREV96Izso=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115074/d327c9.jpg", Qualifying
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6dnZsk11C5H318DznictZHu9gnE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115075/0d3c73.jpg", Practice 2
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/x0-cRhd_DARJLVysdiO4Xbv5sPI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115086/0004e2.jpg", Sprint
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0ewzc8qxP3TpFJVK7MuxEl3F0o8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115087/a3c0a4.jpg", Practice 3
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/62yIMBjvPgK2SQTtRYkQkmaggH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115088/24449b.jpg", Sprint
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rA3FGl7X5bosgsCxgpLFnp_FT-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115089/aa3d47.jpg", Qualifying
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=S3NLgvR9alqSd1pKD2UMwgoFJlpUtgxk|User-Agent=VidioPlayer/6.31.6
+
+#EXTM3U
+
+#EXTM3U
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/114cfffd-4b8c-596f-bf16-a19572c481d6?type=png&quality=75",📅 FIFA World Cup 2026: Countdown Concert: Live Stream [11/06/26 - 08:00]
+https://archertv.my.id/wc/index.m3u8?id=2501980739847
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/d04fae31-4c54-5853-83c8-aecc2328f899?type=png&quality=75",📅 FIFA World Cup 2026™: Mexico v South Africa: Group A: Live Stream [12/06/26 - 01:00]
+https://archertv.my.id/wc/index.m3u8?id=2498295363923
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/a4b4576d-30c8-5ee3-893f-3efca5db53b6?type=png&quality=75",📅 FIFA World Cup 2026™: Korea Republic v Czechia: Group A: Live Stream [12/06/26 - 08:30]
+https://archertv.my.id/wc/index.m3u8?id=2498310211516
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/13d9a2ef-cb34-580c-9326-815698fe6262?type=png&quality=75",📅 FIFA World Cup 2026™: Canada v Bosnia-Herzegovina: Group B: Live Stream [13/06/26 - 01:30]
+https://archertv.my.id/wc/index.m3u8?id=2498300483916
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/e13ac4c4-182b-58a3-8895-9f3ed5b5b03a?type=png&quality=75",📅 FIFA World Cup 2026™: USA v Paraguay: Group D: Live Stream [13/06/26 - 07:30]
+https://archertv.my.id/wc/index.m3u8?id=2498310211681
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/b0a01bcd-df60-5ba5-b00f-ff2071eca425?type=png&quality=75",📅 FIFA World Cup 2026™: Qatar v Switzerland: Group B: Live Stream [14/06/26 - 01:30]
+https://archertv.my.id/wc/index.m3u8?id=2498306627540
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/a768ccf2-f997-5964-8ab2-afd50ee06bba?type=png&quality=75",📅 FIFA World Cup 2026™: Brazil v Morocco: Group C: Live Stream [14/06/26 - 04:30]
+https://archertv.my.id/wc/index.m3u8?id=2498309187714
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/6a7d1398-7d57-5360-af7c-c228e93b340c?type=png&quality=75",📅 FIFA World Cup 2026™: Haiti v Scotland: Group C: Live Stream [14/06/26 - 07:30]
+https://archertv.my.id/wc/index.m3u8?id=2498309699704
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/9be51314-c7b4-59cc-9afb-ea6d6b6db76b?type=png&quality=75",📅 FIFA World Cup 2026™: Australia v Türkiye: Group D: Live Stream [14/06/26 - 10:00]
+https://archertv.my.id/wc/index.m3u8?id=2498313795766
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/4f73e9af-0616-5b6d-9a16-2ef7dba9da30?type=png&quality=75",📅 FIFA World Cup 2026™: Germany v Curaçao: Group E: Live Stream [14/06/26 - 23:30]
+https://archertv.my.id/wc/index.m3u8?id=2498311235570
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/2761ecb9-69f6-503f-9866-938fc65f17ba?type=png&quality=75",📅 FIFA World Cup 2026™: Netherlands v Japan: Group F: Live Stream [15/06/26 - 02:30]
+https://archertv.my.id/wc/index.m3u8?id=2498310723642
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/194bac65-b4bc-5062-87c0-a5ec92402c9d?type=png&quality=75",📅 FIFA World Cup 2026™: Côte d'Ivoire v Ecuador: Group E: Live Stream [15/06/26 - 05:30]
+https://archertv.my.id/wc/index.m3u8?id=2498316355618
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/4e66f9fa-650c-519f-8e04-b9c1cac9d528?type=png&quality=75",📅 FIFA World Cup 2026™: Sweden v Tunisia: Group F: Live Stream [15/06/26 - 08:30]
+https://archertv.my.id/wc/index.m3u8?id=2498311235827
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/e2295378-b0b8-514e-b524-24e48e00117b?type=png&quality=75",📅 FIFA World Cup 2026™: Spain v Cabo Verde: Group H: Live Stream [15/06/26 - 22:30]
+https://archertv.my.id/wc/index.m3u8?id=2498311235861
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/5786e6c4-b2ae-55bc-9af6-e3e674d0010a?type=png&quality=75",📅 FIFA World Cup 2026™: Belgium v Egypt: Group G: Live Stream [16/06/26 - 01:30]
+https://archertv.my.id/wc/index.m3u8?id=2498314307622
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/b87b4e5a-c11e-5f99-ae5c-bc0293f308f7?type=png&quality=75",📅 FIFA World Cup 2026™: Saudi Arabia v Uruguay: Group H: Live Stream [16/06/26 - 04:30]
+https://archertv.my.id/wc/index.m3u8?id=2498316355805
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/debc120a-5f12-5dfc-bbd7-a9c02af773ef?type=png&quality=75",📅 FIFA World Cup 2026™: IR Iran v New Zealand: Group G: Live Stream [16/06/26 - 07:30]
+https://archertv.my.id/wc/index.m3u8?id=2498322499509
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/f5a0c9f6-76ed-559d-b9b4-760c697e029b?type=png&quality=75",📅 FIFA World Cup 2026™: France v Senegal: Group I: Live Stream [17/06/26 - 01:30]
+https://archertv.my.id/wc/index.m3u8?id=2498319427699
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/faa88962-6987-500d-a911-3d5553907c48?type=png&quality=75",📅 FIFA World Cup 2026™: Iraq v Norway: Group I: Live Stream [17/06/26 - 04:30]
+https://archertv.my.id/wc/index.m3u8?id=2498319427900
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/7432e408-5381-5652-a5a3-0610b921fba5?type=png&quality=75",📅 FIFA World Cup 2026™: Argentina v Algeria: Group J: Live Stream [17/06/26 - 07:30]
+https://archertv.my.id/wc/index.m3u8?id=2498321475934
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/ee3f7a2d-66f6-5528-99e2-3f8194f0ce18?type=png&quality=75",📅 FIFA World Cup 2026™: Austria v Jordan: Group J: Live Stream [17/06/26 - 10:30]
+https://archertv.my.id/wc/index.m3u8?id=2498324547563
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/10c4980d-6696-5190-815b-bbadde7af993?type=png&quality=75",📅 FIFA World Cup 2026™: Portugal v Congo DR: Group K: Live Stream [17/06/26 - 23:30]
+https://archertv.my.id/wc/index.m3u8?id=2498348611964
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/1da27c6d-ae4a-520d-9daf-6660c4e291eb?type=png&quality=75",📅 FIFA World Cup 2026™: England v Croatia: Group L: Live Stream [18/06/26 - 02:30]
+https://archertv.my.id/wc/index.m3u8?id=2498355779507
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/72520c47-f93f-5148-92c7-5698827b5797?type=png&quality=75",📅 FIFA World Cup 2026™: Ghana v Panama: Group L: Live Stream [18/06/26 - 05:30]
+https://archertv.my.id/wc/index.m3u8?id=2498353731693
+#EXTM3U
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303965&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/01115819-r1j9fhv0vr8hw6io.png" group-title="📅 Upcoming",⏳ Carolina Hurricanes - Vegas Golden Knights
+http://spacetv.my.id/experimen/ge.mpd?id=303965&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303966&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/01115819-r1j9fhv0vr8hw6io.png" group-title="📅 Upcoming",⏳ Carolina Hurricanes - Vegas Golden Knights
+http://spacetv.my.id/experimen/ge.mpd?id=303966&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303994&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02090114-nnvof8dspni7ql5l.jpg" group-title="📅 Upcoming",⏳ Grand Prix UK
+http://spacetv.my.id/experimen/ge.mpd?id=303994&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303887&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/05/28110244-p409daoshdudoeu8.jpg" group-title="📅 Upcoming",⏳ Monaco Grand Prix - Qualifying
+http://spacetv.my.id/experimen/ge.mpd?id=303887&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303856&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/05/29125823-z52xopfafophdlya.jpg" group-title="📅 Upcoming",⏳ Zuffa Boxing 7: Billam-Smith vs. Rozicki - Prelims/Main Card
+http://spacetv.my.id/experimen/ge.mpd?id=303856&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303969&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/01130624-tvtxt6o0yo7zzz9u.png" group-title="📅 Upcoming",⏳ Castellon - Almeria
+http://spacetv.my.id/experimen/ge.mpd?id=303969&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303897&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/05/28112322-fw94r11qxvagpeqi.jpg" group-title="📅 Upcoming",⏳ UFC Fight Night: Muhammad vs. Bonfim - Prelims / Main Card
+http://spacetv.my.id/experimen/ge.mpd?id=303897&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303967&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/01120031-t9iguriqtsxtmuky.png" group-title="📅 Upcoming",⏳ Vegas Golden Knights - Carolina Hurricanes 
+http://spacetv.my.id/experimen/ge.mpd?id=303967&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303993&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02090114-nnvof8dspni7ql5l.jpg" group-title="📅 Upcoming",⏳ Grand Prix UK
+http://spacetv.my.id/experimen/ge.mpd?id=303993&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303890&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/05/28111138-llektc16dn9u4wxq.jpg" group-title="📅 Upcoming",⏳ Monaco Grand Prix - Race
+http://spacetv.my.id/experimen/ge.mpd?id=303890&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303970&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/01130710-6frynvbohrqu55wm.png" group-title="📅 Upcoming",⏳ Las Palmas - Malaga
+http://spacetv.my.id/experimen/ge.mpd?id=303970&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303968&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/01120031-t9iguriqtsxtmuky.png" group-title="📅 Upcoming",⏳ Vegas Golden Knights - Carolina Hurricanes 
+http://spacetv.my.id/experimen/ge.mpd?id=303968&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
