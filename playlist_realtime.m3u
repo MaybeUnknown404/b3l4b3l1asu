@@ -95,11 +95,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=poY4UgqEGwXOX
 https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YdgZwPfkwYzG0WvanfyBqpezKGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115004/841b8a.jpg", Women: Belgium vs Poland
-https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=206&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CbPCClrgn0cHe2z3GloYEnSK8BQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115007/38ee96.jpg", Women: Thailand vs Serbia
 https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
