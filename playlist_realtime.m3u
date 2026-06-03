@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/oyO7absnNPo/hqdefault.jpg?v=6a1f6d23&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1ntw1F4-ZINCFn5gf5WY7mTBQ" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Day 2 | Court 2 | Round of 32
-https://qtv.my.id/testoken/index.m3u8?id=oyO7absnNPo
-#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21593&type=drm
