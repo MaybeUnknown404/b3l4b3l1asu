@@ -96,11 +96,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=poY4UgqEGwXOX
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZVT5sQKy-bNCSUXLyXRrZTEYqYg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115005/e07d62.jpg", Women: China vs Czechia
-https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZY5ZgOhaWar8iw_v-rjAL_pvsZA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115006/4cf09d.jpg", Women: Ukraine vs United States
 https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
 
