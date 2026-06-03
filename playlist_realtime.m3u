@@ -120,6 +120,16 @@ https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=poY4UgqEGwXOXtT
 https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m4NmdcPtsCCd1gMvJFTQlpS9YI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119823/10d726.jpg", Women: France vs Japan
+https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DRE8gVTuU4oJzj7NZxfzcldRt0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119824/ea8c82.jpg", Women: Canada vs Germany
+https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=206&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HbgQ0uXn1BU9YT_xJbsn5BGxw_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119820/345660.jpg", Women: China vs Thailand
 https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
