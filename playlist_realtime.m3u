@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/fzuSdwr1Sgo/hqdefault.jpg?v=6a1f65e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2VN34tjEQ-PEVun8kZpfpCgw9qg" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Chen/Liu (CHN) vs Alfian/Fikri (INA) [3] | R32
-https://qtv.my.id/testoken/index.m3u8?id=fzuSdwr1Sgo
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/ZxbXMa7wIKE/hqdefault.jpg?v=6a1f68d8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdp6VapIkczPAHgGQ8H7op4pZOHw" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Goh/Lai (MAS) vs Kusharjanto/Widjaja (INA) | R32
+https://qtv.my.id/testoken/index.m3u8?id=ZxbXMa7wIKE
 #EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/oyO7absnNPo/hqdefault.jpg?v=6a1f6d23&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1ntw1F4-ZINCFn5gf5WY7mTBQ" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Day 2 | Court 2 | Round of 32
 https://qtv.my.id/testoken/index.m3u8?id=oyO7absnNPo
 #EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/SZcBVVE8cns/hqdefault.jpg?v=6a1f6500&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNlHS53gDD6jfWiVzZzBIlVx9vdQ" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Day 2 | Court 3 | Round of 32
@@ -93,11 +93,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=poY4UgqEGwXOX
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rA3FGl7X5bosgsCxgpLFnp_FT-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115089/aa3d47.jpg", Qualifying
 https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=206&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CbPCClrgn0cHe2z3GloYEnSK8BQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115007/38ee96.jpg", Women: Thailand vs Serbia
-https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=poY4UgqEGwXOXtTKPqsaBnQngdlJvoXx
