@@ -15,6 +15,11 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21593&type=dash|User-Agent=Mozilla
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RjVb0B38pSVlJWsqF1slPNKdZ-g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5115046/486824.jpg", Cambodia vs Philippines
 https://archertv.my.id/atraksi/mlngktl.mpd?id=21593&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21593&type=drm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fs8BlH6hcy0PA20ty9-VRGGr9-w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120766/f7ed97.jpg", Timor-Leste vs Myanmar
+https://archertv.my.id/atraksi/mlngktl.mpd?id=21593&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
