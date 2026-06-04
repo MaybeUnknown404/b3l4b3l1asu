@@ -119,7 +119,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=dQFpVqF9z9p60
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/rgSF6BxdaAjHCw6lThiTgtjpLQo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21603/volleyball-nations-league-2a48b6.jpg", Women: Serbia vs Poland
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RKjZJHwh_qqTR_BwP9O4WElkdlE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119865/abb8c0.jpg", Women: Serbia vs Poland
 https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 
 #EXTM3U
