@@ -64,7 +64,17 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6b
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ex8CltcuZIjwYW4K5rwQqbuTfo0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17884/formula-1-537449.jpg", Race
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Bovw4FaCcsFREonAhMaOmQZ_Tvk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120757/b33555.jpg", Race
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/asz5Ia0Up_IVAKQzkapoMz-84-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120758/092828.jpg", Race
+https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/atCchGPVmGX1cQ0Ym7-F3JrCiMU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120759/4dc2ee.jpg", Race
 https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
