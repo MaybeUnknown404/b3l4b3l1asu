@@ -141,7 +141,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=dQFpVqF9z9p60
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Eh-OH1BqussNvzphasKNjaJS5-8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21254/avc-women-s-volleyball-nations-cup-11ece1.jpg", Philippines vs Uzbekistan
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GkQPmUvaqo2tpSY7Ie5jbIUas4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119900/b570c9.jpg", Philippines vs Uzbekistan
 https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
