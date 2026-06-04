@@ -92,6 +92,21 @@ https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=dQFpVqF9z9p60
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HbgQ0uXn1BU9YT_xJbsn5BGxw_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119820/345660.jpg", Women: China vs Thailand
 https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=206&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/EH1KqOWRuO-bTW4RXoatg7dHkBw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119858/f686ff.jpg", Women: Turkey vs Netherlands
+https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HeMEhwoCTnSFlQs2kx5Naw_SUzw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119860/067292.jpg", Women: Ukraine vs Germany
+https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/I3FjwXm1bhu5QXik9AKA5rU4fVE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21616/volleyball-nations-league-b3b7cb.jpg", Women: Brazil vs Dominican Republic
+https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
+
 #EXTM3U
 
 #EXTM3U
