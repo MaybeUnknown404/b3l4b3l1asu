@@ -88,11 +88,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6b
 https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HeMEhwoCTnSFlQs2kx5Naw_SUzw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119860/067292.jpg", Women: Ukraine vs Germany
-https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/uRPDU91JQGcKKtFQpRA7n6BuRI4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119862/a5fef4.jpg", Women: Brazil vs Dominican Republic
 https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
@@ -185,6 +180,11 @@ https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=6RIMW7FcMVX6b
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XTqq2YMw9kDQTwtQw8oV7nHlZdQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120755/c89893.jpg", Philippines vs Australia
+https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_gHEbOurleL9Ico54Ak5LNjtepg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120756/12a3bb.jpg", Kazakhstan vs Indonesia
 https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 
 #EXTM3U
