@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/7gMdLPmVku4/hqdefault.jpg?v=6a209798&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4mytVeomaPXQ9da2o-IuiGi6-Zg" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Hsieh/Hung (TPE) [7] vs Kusuma/Puspitasari (INA) | R16
+https://qtv.my.id/testoken/index.m3u8?id=7gMdLPmVku4
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/e3GOg9RQpwY/hqdefault.jpg?v=6a208755&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUthqIGy6HqJSKxCPBPh8YsMP2Uw" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | An Se Young (KOR) [1] vs Pusarla V. Sindhu (IND) | R16
+https://qtv.my.id/testoken/index.m3u8?id=e3GOg9RQpwY
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/dphwtT_hPJM/hqdefault.jpg?v=6a20866a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFk3TWu3UMAHaWg8z7gghIpwBmeQ" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Day 3 | Court 3 | Round of 16
+https://qtv.my.id/testoken/index.m3u8?id=dphwtT_hPJM
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21593&type=drm
