@@ -99,14 +99,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=dQFpVqF9z9p60Tq
 
 #EXTM3U
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780050792601-YANKEESVSGUARDIANS.jpg" tvg-name="",New York Yankees vs Cleveland Guardians
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a196b814edb3811f23cb82b&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a196b814edb3811f23cb82b&type=hls
-
 #EXTM3U
 #EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/114cfffd-4b8c-596f-bf16-a19572c481d6?type=png&quality=75",📅 FIFA World Cup 2026: Countdown Concert: Live Stream [11/06/26 - 08:00]
 https://archertv.my.id/wc/index.m3u8?id=2501980739847
