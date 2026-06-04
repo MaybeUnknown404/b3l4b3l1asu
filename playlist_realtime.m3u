@@ -103,6 +103,11 @@ https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=dQFpVqF9z9p60
 https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=206&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sxwV8v6lpkIvTSqixU3EM94S1LM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120743/1d37f2.jpg", Women: Dominican Republic vs Bulgaria
+https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fNY_IyvQbBwD8AHIOVYlf1R6jIo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120735/73b02b.jpg", Women: Ukraine vs Japan
 https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=dQFpVqF9z9p60TqeftknsDrBhAmYYFFW|User-Agent=VidioPlayer/6.31.6
