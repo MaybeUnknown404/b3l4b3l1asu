@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,[OFFLINE] @PolytronIndonesia
-http://localhost/offline.mp4#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21593&type=drm
