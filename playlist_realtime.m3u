@@ -6,13 +6,8 @@ https://qtv.my.id/testoken/index.m3u8?id=s7fS_rCxibI
 #EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/dphwtT_hPJM/hqdefault.jpg?v=6a20866a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFk3TWu3UMAHaWg8z7gghIpwBmeQ" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Day 3 | Court 3 | Round of 16
 https://qtv.my.id/testoken/index.m3u8?id=dphwtT_hPJM
 #EXTM3U
-#EXTINF:-1 tvg-id="Polytron Indonesia" tvg-logo="https://i.ytimg.com/vi/oP1IvrlCh4I/hqdefault_live.jpg" group-title="🔴 Live Event",POLYTRON INDONESIA OPEN 2026 - DAY 3 | COURT 3
-https://qtv.my.id/ytlive/index.m3u8?id=oP1IvrlCh4I&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Polytron Indonesia" tvg-logo="https://i.ytimg.com/vi/RJgHufRFvKs/hqdefault_live.jpg" group-title="🔴 Live Event",POLYTRON INDONESIA OPEN 2026 - DAY 3 | COURT 1
-https://qtv.my.id/ytlive/index.m3u8?id=RJgHufRFvKs&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Polytron Indonesia" tvg-logo="https://i.ytimg.com/vi/c279r52wnpY/hqdefault_live.jpg" group-title="🔴 Live Event",POLYTRON INDONESIA OPEN 2026 - DAY 3 | COURT 2
-https://qtv.my.id/ytlive/index.m3u8?id=c279r52wnpY&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTM3U
+#EXTINF:-1,[OFFLINE] @PolytronIndonesia
+http://localhost/offline.mp4#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21593&type=drm
