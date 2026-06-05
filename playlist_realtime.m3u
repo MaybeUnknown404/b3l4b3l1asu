@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/ld3dZia9liw/hqdefault.jpg?v=6a226150&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfNv6ag5kFXUBKuTkYlhKnWeUaXw" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Chiu Pin-Chian (TPE) vs Akane Yamaguchi (JPN) [3] | QF
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/ld3dZia9liw/hqdefault.jpg?v=6a226150&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB3PVNCRU8RSuYqWjla1JZ3W5A58w" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Chiu Pin-Chian (TPE) vs Akane Yamaguchi (JPN) [3] | QF
 https://qtv.my.id/testoken/index.m3u8?id=ld3dZia9liw
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/LqYrmXq4wUM/hqdefault.jpg?v=6a226080&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxmQDtwAGafZSsBLpnlbqy0H2zAA" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Hoki/Kobayashi (JPN) [8] vs Indra/Joaquin (INA) | QF
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/LqYrmXq4wUM/hqdefault.jpg?v=6a226080&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBmra7j-SuUBDyDxuhYNRPlTko9FA" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Hoki/Kobayashi (JPN) [8] vs Indra/Joaquin (INA) | QF
 https://qtv.my.id/testoken/index.m3u8?id=LqYrmXq4wUM
 #EXTM3U
 
@@ -188,6 +188,14 @@ https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=6RIMW7FcMVX6b
 https://susu2.indi2.workers.dev/index.mpd?id=21626&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 
 #EXTM3U
+
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780337021912-FP1_LIVEThumbnail.jpg" tvg-name="",Grand Prix of Hungary: Free Practice 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a1cf73f4edb3811f23cb848&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a1cf73f4edb3811f23cb848&type=hls
 
 #EXTM3U
 #EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/114cfffd-4b8c-596f-bf16-a19572c481d6?type=png&quality=75",📅 FIFA World Cup 2026™: Countdown Concert: Live Stream [11/06/26 - 08:00]
