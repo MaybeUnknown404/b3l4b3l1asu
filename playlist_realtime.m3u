@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/s853U0xmLyU/hqdefault.jpg?v=6a221cd8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmhha755q-8NG9LhVvBOAslriAbA" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Guo/Chen (CHN) [6] vs Ye/Chan (TPE) | QF
+https://qtv.my.id/testoken/index.m3u8?id=s853U0xmLyU
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/p-KaT7K4VyU/hqdefault.jpg?v=6a221db3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnx43rJzGrDXfIDsOg-mTlGfVZqA" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | An Se Young (KOR) [1] vs Pornpawee Chochuwong (THA) [7] | QF
+https://qtv.my.id/testoken/index.m3u8?id=p-KaT7K4VyU
+#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21593&type=drm
@@ -86,11 +91,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6b
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/atCchGPVmGX1cQ0Ym7-F3JrCiMU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120759/4dc2ee.jpg", Race
 https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/nAmWucwY3xls9Sgzy6FpyVbJRDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119863/f48733.jpg", Women: Canada vs United States
-https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=6RIMW7FcMVX6bITuxV8BobCUVKDJNraN
