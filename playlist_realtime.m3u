@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/hIU_wZ5yEq4/hqdefault.jpg?v=6a2391ff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm7jknNr7hEuk3SRAS_Rq60p6TCQ" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | An Se Young (KOR) [1] vs Chen Yu Fei (CHN) [4] | SF
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/hIU_wZ5yEq4/hqdefault.jpg?v=6a2391ff&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCTBsI4qeZPnF1aWgthbzQVTxuAfQ" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | An Se Young (KOR) [1] vs Chen Yu Fei (CHN) [4] | SF
 https://qtv.my.id/testoken/index.m3u8?id=hIU_wZ5yEq4
 #EXTM3U
 
@@ -97,7 +97,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=BayNFRMKRWPXw
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/GkQPmUvaqo2tpSY7Ie5jbIUas4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119900/b570c9.jpg", Philippines vs Uzbekistan
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GkQPmUvaqo2tpSY7Ie5jbIUas4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119900/b570c9.jpg", Philippines vs Uzbekistan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
 
