@@ -123,6 +123,12 @@ https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=IZEOcImgvQNyY
 https://susu2.indi2.workers.dev/index.mpd?id=21626&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J2kOiiHT4zowhrCTyan23sCo19Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124673/4aeb93.jpg", Women: Dominican Republic vs Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PPxBWA3sfxXmxq0oi80_twiG8Oc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123866/97785c.jpg", Women: Ukraine vs France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -136,7 +142,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=IZEOcImgvQNyY
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ghYIBJWN6oL5wo2yd3lN_z_pKT4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124672/c7737b.jpg", Women: Bulgaria vs Turkey
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XSNNvSwEuXJ_FTRbrpYtRxTOv0E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124674/97cc39.jpg", Women: Bulgaria vs Turkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
 
