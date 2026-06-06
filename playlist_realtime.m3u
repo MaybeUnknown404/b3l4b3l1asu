@@ -57,12 +57,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=IZEOcImgvQNyY
 https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=206&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/p10KwyqpRivIKY0SyiLfQEsqyyk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123656/9c1f40.jpg", Women: Italy vs Turkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/q0rEhsy6r8ewg5aqpXxBRK-Kflo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123858/2ec054.jpg", Women: Canada vs France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
