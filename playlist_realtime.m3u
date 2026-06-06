@@ -171,16 +171,16 @@ https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=BayNFRMKRWPXw
 https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XTqq2YMw9kDQTwtQw8oV7nHlZdQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120755/c89893.jpg", Philippines vs Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/8qM1r2WCR22o0HaQ-sOUNNoEtGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123862/37fb3f.jpg", Women: Belgium vs Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XTqq2YMw9kDQTwtQw8oV7nHlZdQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120755/c89893.jpg", Philippines vs Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
@@ -199,6 +199,18 @@ https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=BayNFRMKRWPXw
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mwH7SqTRVv3MwDcE1vLi57_obWA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120770/5e4337.jpg", Uzbekistan vs Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21626&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/yhs9cDbz6I9xxJjx5rVT-9Jvx8o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123864/8d6319.jpg", Women: Dominican Republic vs Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PPxBWA3sfxXmxq0oi80_twiG8Oc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123866/97785c.jpg", Women: Ukraine vs France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=BayNFRMKRWPXwIY259mMM9flh0Wd1q3W
 
 #EXTM3U
 
