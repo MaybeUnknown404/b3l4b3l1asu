@@ -46,7 +46,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=iQcuiOy8ZU3eUMX
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0zK-KvDVjbsVTbUVrF7IR4E7P7k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124670/26ca7c.jpg", Women: United States vs Germany
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/0zK-KvDVjbsVTbUVrF7IR4E7P7k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124670/26ca7c.jpg", Women: United States vs Germany
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
 
