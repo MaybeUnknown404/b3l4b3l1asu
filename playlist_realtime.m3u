@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/CzxDJyz95Hc/hqdefault.jpg?v=6a24a864&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3HW5QM2p3djIfbBOqmG0G45vXVw" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Goh/Izzuddin (MAS) [7] vs Indra/Joaquin (INA) | F
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/CzxDJyz95Hc/hqdefault.jpg?v=6a24a864&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCeJ9MdnzKwz6TLJX1wf5-qnmFm2A" group-title="🔴 BWF Championship",POLYTRON Indonesia Open 2026 | Goh/Izzuddin (MAS) [7] vs Indra/Joaquin (INA) | F
 https://qtv.my.id/testoken/index.m3u8?id=CzxDJyz95Hc
 #EXTM3U
 
@@ -45,91 +45,6 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21602&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://archertv.my.id/atraksi/mlngktl.mpd?id=21610&type=dash
 
-#EXTM3U
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/atCchGPVmGX1cQ0Ym7-F3JrCiMU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120759/4dc2ee.jpg", Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/yLQBtJnFzByk6opRXfll6wrMbbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123863/0b5a3f.jpg", Women: China vs Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21626&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/mwH7SqTRVv3MwDcE1vLi57_obWA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120770/5e4337.jpg", Uzbekistan vs Korea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21626&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/J2kOiiHT4zowhrCTyan23sCo19Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124673/4aeb93.jpg", Women: Dominican Republic vs Netherlands
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/PPxBWA3sfxXmxq0oi80_twiG8Oc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123866/97785c.jpg", Women: Ukraine vs France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=206&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/zti_Bc_p9y67iQvL-e3yYbIBEV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125371/b58bc3.jpg", Women: Brazil vs Italy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/0zK-KvDVjbsVTbUVrF7IR4E7P7k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124670/26ca7c.jpg", Women: United States vs Germany
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XSNNvSwEuXJ_FTRbrpYtRxTOv0E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124674/97cc39.jpg", Women: Bulgaria vs Turkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6NskBUR8ZXpTW85L7CxS_lT6Wl4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124671/5f58e9.jpg", Women: Canada vs Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VFTo9B-ydA0HZEdb8i3uNR0s9DM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125050/f00c85.jpg", Lebanon vs Hong Kong
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/U-CHIpug889Qsh7ljlt5xkxT4sg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125051/be5a79.jpg", Kazakhstan vs Iran
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ZJFYf5juagvnxJHauhdjymQHrC0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125052/9adc93.jpg", Philippines vs Kyrgyzstan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oHYK2sHBuhNmPLz6nWi-pl7O0mQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125053/9ba13e.jpg", Vietnam vs Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21626&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ECpUZtAF_CODiRnn7yNAiHJ9F_Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125054/cc4278.jpg", Chinese Taipei vs Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21626&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
 
 #EXTM3U
 
