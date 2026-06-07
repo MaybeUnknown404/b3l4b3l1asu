@@ -49,7 +49,7 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21610&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=17884&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/asz5Ia0Up_IVAKQzkapoMz-84-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120758/092828.jpg", Race
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/asz5Ia0Up_IVAKQzkapoMz-84-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120758/092828.jpg", Race
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
 
