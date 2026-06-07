@@ -58,7 +58,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=17884&type=dash&token=IZEOcImgvQNyY
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/PF8QnoDGdmD4rBacjJpodOwmLAs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120753/bf2da2.jpg", Vietnam vs Hong Kong
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k88tmRTyMnPxxH-JAX-U32C8s3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120754/e9520a.jpg", Chinese Taipei vs Kyrgyzstan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
 
@@ -67,12 +67,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=IZEOcImgvQNyY
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dsNpr891umXmG-C6MDrsYlL_rGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5123861/fd5ad8.jpg", Women: Thailand vs Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/k88tmRTyMnPxxH-JAX-U32C8s3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120754/e9520a.jpg", Chinese Taipei vs Kyrgyzstan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=IZEOcImgvQNyYoYyJsWc27yGhc65xWcP
