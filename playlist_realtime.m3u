@@ -39,20 +39,8 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21610&type=dash
 https://susu2.indi2.workers.dev/index.mpd?id=19388&type=dash&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/XSNNvSwEuXJ_FTRbrpYtRxTOv0E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124674/97cc39.jpg", Women: Bulgaria vs Turkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/6NskBUR8ZXpTW85L7CxS_lT6Wl4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5124671/5f58e9.jpg", Women: Canada vs Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VFTo9B-ydA0HZEdb8i3uNR0s9DM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125050/f00c85.jpg", Lebanon vs Hong Kong
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VFTo9B-ydA0HZEdb8i3uNR0s9DM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125050/f00c85.jpg", Lebanon vs Hong Kong
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
 
@@ -81,14 +69,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=iQcuiOy8ZU3eU
 https://susu2.indi2.workers.dev/index.mpd?id=21626&type=dash&token=iQcuiOy8ZU3eUMXs3s25zxrdnYxgJWTI
 
 #EXTM3U
-
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780286057004-NascarCupSeries.jpg" tvg-name="",Firekeepers Casino 400
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a1d027a23ab5e03c8fd0a96&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a1d027a23ab5e03c8fd0a96&type=hls
 
 #EXTM3U
 #EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/114cfffd-4b8c-596f-bf16-a19572c481d6?type=png&quality=75",📅 FIFA World Cup 2026™: Countdown Concert: Live Stream [11/06/26 - 08:00]
