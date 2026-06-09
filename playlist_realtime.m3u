@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/c6X6_tWQqGw/hqdefault.jpg?v=6a272c79&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB5UoOLjtDywcDqb1biDc1fRQ6rPw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 1 | Court 3 | Qualification/Round of 32
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/c6X6_tWQqGw/hqdefault.jpg?v=6a272c79&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArxEUdEKPqAhtLt7N-vr1mIqIKGg" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 1 | Court 3 | Qualification/Round of 32
 https://qtv.my.id/testoken/index.m3u8?id=c6X6_tWQqGw
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/3YJmDr_AUn0/hqdefault.jpg?v=6a272bbb&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCVNEIpnBwhgOUdEBQ8MNoF5vINsA" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 1 | Court 2 | Qualification/Round of 32
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/3YJmDr_AUn0/hqdefault.jpg?v=6a272bbb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx8-_5z_FGZcr2wBHpwhuuTGWxmw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 1 | Court 2 | Qualification/Round of 32
 https://qtv.my.id/testoken/index.m3u8?id=3YJmDr_AUn0
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/K5cgsQDur_E/hqdefault.jpg?v=6a272acd&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDxxFaOo8xf716hhgOv1R5UW3mPYA" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 1 | Court 1 | Qualification/Round of 32
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/K5cgsQDur_E/hqdefault.jpg?v=6a272acd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX9bN2S7pZyBxtYb0rdPCAxIkOwQ" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 1 | Court 1 | Qualification/Round of 32
 https://qtv.my.id/testoken/index.m3u8?id=K5cgsQDur_E
 #EXTM3U
 
@@ -12,12 +12,6 @@ https://qtv.my.id/testoken/index.m3u8?id=K5cgsQDur_E
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KNmqM_G82oh0idsrbSGFvEJqKDM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125055/93e55e.jpg", Australia vs Cambodia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21602&type=drm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/hdVTJu-Hzn2V1lhyOm6QK59lzcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120020/9afc95.jpg", Indonesia vs Cambodia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://archertv.my.id/atraksi/mlngktl.mpd?id=21602&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21610&type=drm
