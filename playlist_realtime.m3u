@@ -27,31 +27,6 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21602&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://archertv.my.id/atraksi/mlngktl.mpd?id=21610&type=dash
 
-#EXTM3U
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vFACl_l4F5l6ssaGQkGTg7dQIXU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-1-bf2f4c.jpg", Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani (INA) vs Donovan Willard Wee/Jia Hao Howin Wong (SGP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DDHGug13LLjEir8KuzjwSbNZBTM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-2-d2e10d.jpg", Polina Buhrova/Yevheniia Kantemyr (UKR) vs Setyana Mapasa/Angela Yu (AUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DB1G6N-paDkK35a_04coYxnA3Bs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-3-98b13e.jpg", Yeung Nga Ting/Yeung Pui Lam (HKG) vs Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Pv8nDWFAA1VivS2CR0gdM-nKtcw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-4-a70454.jpg", Achutaditya Rao Doddavarapu/Pochana Arjun Reddy (IND) vs Kanki Igawa/Ooi Yi Hern (AUS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
 
 #EXTM3U
 
