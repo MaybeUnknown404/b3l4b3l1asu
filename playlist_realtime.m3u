@@ -1,20 +1,5 @@
-#EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21633&type=drm
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KNmqM_G82oh0idsrbSGFvEJqKDM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5125055/93e55e.jpg", Australia vs Cambodia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21610&type=drm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/J7-G0xiALxEzPBMHVmEyJvQA7ag=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5120018/c9518c.jpg", Indonesia vs Mozambique
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://archertv.my.id/atraksi/mlngktl.mpd?id=21610&type=dash
-
-#EXTM3U
-
-#EXTM3U
 
 #EXTM3U
 #EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/d2c190e0-cbc2-51df-8da1-05c06b1ff723?type=png&quality=75",📅 FIFA World Cup 2026™: Countdown Concert: Live Stream [11/06/26 - 08:00]
@@ -65,6 +50,5 @@ https://archertv.my.id/wc/index.m3u8?id=2498319427900
 https://archertv.my.id/wc/index.m3u8?id=2498321475934
 #EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/b672e9ef-70b2-5d7e-b9d4-72bfc1aad094?type=png&quality=75",📅 FIFA World Cup 2026™: Austria v Jordan: Group J: Live Stream [17/06/26 - 10:30]
 https://archertv.my.id/wc/index.m3u8?id=2498324547563
-#EXTM3U
 
 #EXTM3U
