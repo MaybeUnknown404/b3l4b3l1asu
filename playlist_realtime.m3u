@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/c6X6_tWQqGw/hqdefault.jpg?v=6a272c79&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArxEUdEKPqAhtLt7N-vr1mIqIKGg" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 1 | Court 3 | Qualification/Round of 32
-https://qtv.my.id/testoken/index.m3u8?id=c6X6_tWQqGw
 #EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/3YJmDr_AUn0/hqdefault.jpg?v=6a272bbb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx8-_5z_FGZcr2wBHpwhuuTGWxmw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 1 | Court 2 | Qualification/Round of 32
 https://qtv.my.id/testoken/index.m3u8?id=3YJmDr_AUn0
 #EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/K5cgsQDur_E/hqdefault.jpg?v=6a272acd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX9bN2S7pZyBxtYb0rdPCAxIkOwQ" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 1 | Court 1 | Qualification/Round of 32
@@ -26,12 +24,6 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21610&type=dash
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/3K7Rv2bjz3Vqa6jy6eKVPuBBDCg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127247/f35861.jpg", Lauren Lam/Allison Quynh Lee (USA) vs Hu Ling Fang/Jheng Yu Chieh (TPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/DB1G6N-paDkK35a_04coYxnA3Bs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-3-98b13e.jpg", Chiu Hsiang Chieh/Wang Chi-Lin (TPE) vs Chen Cheng Kuan/Liu Kuang Heng (TPE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=Es6XvlG2uHKFkGZxWPtiOfRwsCHYpGQ1
