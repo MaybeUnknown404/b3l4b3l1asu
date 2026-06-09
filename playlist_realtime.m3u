@@ -91,7 +91,7 @@ https://archertv.my.id/wc/index.m3u8?id=2498324547563
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=303968&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/303968/original/latest.jpg" group-title="📅 Upcoming",⏳ Vegas Golden Knights - Carolina Hurricanes 
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/303968/original/latest.jpg" group-title="🔴 Live Event",🔴 Vegas Golden Knights - Carolina Hurricanes 
 http://spacetv.my.id/experimen/ge.mpd?id=303968&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -148,6 +148,11 @@ http://spacetv.my.id/experimen/ge.mpd?id=304376&type=dash|User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304369&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/05102923-mfwyzvxzdm2nhhkk.jpg" group-title="📅 Upcoming",⏳ E1 Dubrovnik GP 2026 - Finals
 http://spacetv.my.id/experimen/ge.mpd?id=304369&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304372&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/05104112-ca5ytyh9fj0r4cu3.jpg" group-title="📅 Upcoming",⏳ PFL Africa 2 - Lagos, Nigeria
+http://spacetv.my.id/experimen/ge.mpd?id=304372&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304005&type=drm
