@@ -13,7 +13,7 @@ https://qtv.my.id/testoken/com.m3u8?id=SMnKYsmaaQM
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/j9SJK5ezJlsKdNupgEKUaLr25AA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-qualifiers-round-of-32-court-1-3f327e.jpg", SATHIO GROUP Australian Badminton Open 2026
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/GgdnNLZAx9-k6dDlpb8MVgyHfF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127376/2cc79d.jpg", Roshan Rajkumar (AUS)/Steven Stallwood (ENG) vs Peeratchai Sukphun/Pakkapon Teeraratsakul (THA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
 
@@ -31,7 +31,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=KVEXqp9HKbyRf
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wfiksdbhTIy9FiGU2_TvUL9iQNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127419/f6aa8e.jpg", Na Sung Seung/Wang Chan (KOR) vs Jordan Wang/Chauncey Yu (AUS)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/MNp24mtTD7H5nnjm32trtyR2YQY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127420/03cb7b.jpg", Jazmine Lam/Yee-Yuan Lim (AUS) vs Sai Tanvi Mushini/Ava Wong (AUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
 
