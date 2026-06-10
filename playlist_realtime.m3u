@@ -20,6 +20,12 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/dampXRKUO0MWO2EYIFwIlLw-LFs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-round-of-16-court-2-cf5276.jpg", Lee Cheuk Yiu (HKG) vs Moh. Zaki Ubaidillah (INA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
+
 #EXTM3U
 
 #EXTM3U
