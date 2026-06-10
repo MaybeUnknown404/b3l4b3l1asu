@@ -13,13 +13,13 @@ https://qtv.my.id/testoken/com.m3u8?id=SMnKYsmaaQM
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/g8mFbvqE9TbBQzH-jYd553S4F88=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127385/f842c4.jpg", Jimmy Wong/Cheng Su Yin (MAS) vs Andika Ramadiansyah/Nozomi Shimizu (AUS)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/S7QUKMh9-Z-xx_rOwGG3UBVnrys=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127386/ea4aeb.jpg", Rizky Hidayat/Laudya Chelsea Griselda (AUS) vs Wu Hsuan-Yi/Yang Chu Yun (TPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/snY4kzEc1eOUt_I3ss-Ogv0Ilc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127402/c585eb.jpg", Landon Hosea Kurniawan (AUS)/Jasmine Yeung (USA) vs Liu Kuang Heng/Hsu Yin-Hui (TPE)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/g1Htjm9cFBTuV0w_F6orVQQT0pU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127403/285133.jpg", Tanya Hemanth (IND) vs Ishika Jaiswal (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
 
