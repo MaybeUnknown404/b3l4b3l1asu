@@ -26,6 +26,12 @@ https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=KVEXqp9HKbyRf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3rVb2JDJWmqX06SaV_vjchQFeOM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-badminton-open-2026-round-of-16-court-3-9cefb8.jpg", SATHIO GROUP Australian Badminton Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=KVEXqp9HKbyRf3pdNovpItKZ7TycpsGo
+
 #EXTM3U
 
 #EXTM3U
