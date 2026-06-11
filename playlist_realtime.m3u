@@ -40,14 +40,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANper
 
 #EXTM3U
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780593867430-PIRATESVSDODGERS.jpg" tvg-name="",Pittsburgh Pirates vs Los Angeles Dodgers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a21b4ea7c1f34021961931e&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a21b4ea7c1f34021961931e&type=hls
-
 #EXTM3U
 #EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/d2c190e0-cbc2-51df-8da1-05c06b1ff723?type=png&quality=75",🔴 FIFA World Cup 2026™: Countdown Concert: Live Stream
 https://archertv.my.id/wc/index.m3u8?id=2501980739847
