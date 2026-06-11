@@ -16,18 +16,18 @@ https://qtv.my.id/testoken/com.m3u8?id=RTBGO2
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",RTBGO 2
 https://qtv.my.id/testoken/com.m3u8?id=RTBANEKA2
 
-#EXTINF:-1 tvg-id="" group-logo="https://image-cdn.hypb.st/https%3A%2F%2Fid.hypebeast.com%2Ffiles%2F2023%2F05%2Ffifa-luncurkan-logo-piala-dunia-2026-01.jpeg" tvg-name="" tvg-logo="" group-title="📁 WORLDCUP 26 CH",TELEMUNDO DEPORTES
+#EXTINF:-1 tvg-id="" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8zCDZA0Dsj6Uy0Xd_LuleLI9u2V6TO0PWw&s" tvg-name="" tvg-logo="" group-title="📁 WORLDCUP 26 CH",TELEMUNDO DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 tvg-id="UNIVERSO (East).us" tvg-logo="https://i.ibb.co.com/1nn4svg/universosports.png" group-title="📁 WORLDCUP 26 CH", UNIVERSO (EAST) 🇺🇸
+#EXTINF:-1 tvg-id="UNIVERSO (East).us" tvg-logo="https://e7.pngegg.com/pngimages/978/761/png-clipart-logo-of-nbc-universo-nbc-news-others-miscellaneous-television.png" group-title="📁 WORLDCUP 26 CH", UNIVERSO (EAST) 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co.com/1nn4svg/universosports.png" group-title="📁 WORLDCUP 26 CH", UNIVERSO (WEST) 🇺🇸
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/978/761/png-clipart-logo-of-nbc-universo-nbc-news-others-miscellaneous-television.png" group-title="📁 WORLDCUP 26 CH", UNIVERSO (WEST) 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
