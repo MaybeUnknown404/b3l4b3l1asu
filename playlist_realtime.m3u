@@ -16,7 +16,7 @@ https://qtv.my.id/testoken/com.m3u8?id=RTBGO2
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",RTBGO 2
 https://qtv.my.id/testoken/com.m3u8?id=RTBANEKA2
 
-#EXTINF:-1 tvg-id="" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8zCDZA0Dsj6Uy0Xd_LuleLI9u2V6TO0PWw&s" tvg-name="" tvg-logo="" group-title="📁 WORLDCUP 26 CH",TELEMUNDO DEPORTES
+#EXTINF:-1 tvg-id="" group-logo="https://cdn2.nbcuni.com/NBCUniversal/2025-12/Telemundo%202026%20FIFA%20World%20Cup.png?VersionId=T9qjE76KMNRsLFfNoDSFVaBOHS0deuUt" tvg-name="" tvg-logo="" group-title="📁 WORLDCUP 26 CH",TELEMUNDO DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
