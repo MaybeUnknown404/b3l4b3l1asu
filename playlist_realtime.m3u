@@ -25,7 +25,7 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/rEmFO7-vM6vDZj0JQlWrUG_ksjY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-round-of-16-court-1-c3b0bb.jpg", SATHIO GROUP Australian Badminton Open 2026
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2AnznsmOfQyPvkwOJRjmnNdk1oc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127809/ca540c.jpg", Leo Rolly Carnando / Daniel Marthin (INA) vs Liang Wei Keng / Wang Chang (CHN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
@@ -48,22 +48,10 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANper
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2AnznsmOfQyPvkwOJRjmnNdk1oc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127809/ca540c.jpg", Leo Rolly Carnando / Daniel Marthin (INA) vs Liang Wei Keng / Wang Chang (CHN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qJ8_wb5LriJyaNnBNxuIJa1g85s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127842/8549f0.jpg", Polina Buhrova/Yevheniia Kantemyr (UKR) vs Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YbwIi335tE5oXc8LND4UnjApH8Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127820/027eae.jpg", Rachel Allessya Rose / Febi Setianingrum (INA) vs Lui Lok Lok / Tsang Hiu Yan (HKG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
@@ -72,16 +60,22 @@ https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANper
 https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xJPIzzVi44ZaZxAetRdl1gQUYEQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127810/004f1f.jpg", Jazmine Lam / Yee-Yuan Lim (AUS) vs Low Zi Yu / Noraqilah Maisarah (MAS)
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/YbwIi335tE5oXc8LND4UnjApH8Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127820/027eae.jpg", Rachel Allessya Rose / Febi Setianingrum (INA) vs Lui Lok Lok / Tsang Hiu Yan (HKG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/26NvlSl198cq7Y8DJLa4OrtDziU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127843/86ffd1.jpg", Lauren Lam/Allison Quynh Lee (USA) vs Hsu Yin-Hui/Lin Jhih Yun (TPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xJPIzzVi44ZaZxAetRdl1gQUYEQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127810/004f1f.jpg", Jazmine Lam / Yee-Yuan Lim (AUS) vs Low Zi Yu / Noraqilah Maisarah (MAS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
@@ -96,28 +90,28 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANper
 https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CITBnP0OyKmTbGmVLQ3mGgpHGzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127811/cca5b2.jpg", Gabriela Stoeva / Stefani Stoeva (BUL) vs Audrey Chang / Jasmine Yeung (USA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Es3dPQEWzUCeyg0Vt9jpH1Jy-6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127844/f26576.jpg", Hung Kuei Chun/Lui Chun Wai (HKG) vs Huang Di/Liu Yang (CHN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gvwqRVGSo4GYc7jA-InTBOzqqwk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127835/2464b2.jpg", Laudya Chelsea Griselda/Nozomi Shimizu (AUS) vs Luo Yi/Wang Ting Ge (CHN)
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CITBnP0OyKmTbGmVLQ3mGgpHGzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127811/cca5b2.jpg", Gabriela Stoeva / Stefani Stoeva (BUL) vs Audrey Chang / Jasmine Yeung (USA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G025KkLwXMRbgaDpPGZnZf6bGSI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127822/55d1a2.jpg", Sabar Karyaman Gutama / Moh Reza Pahlevi Isfahani (INA) vs Wang Yue Hang (ENG) / Zewei Xie (AUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gvwqRVGSo4GYc7jA-InTBOzqqwk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127835/2464b2.jpg", Laudya Chelsea Griselda/Nozomi Shimizu (AUS) vs Luo Yi/Wang Ting Ge (CHN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
