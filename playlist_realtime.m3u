@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/m1AYZAIti04/hqdefault.jpg?v=6a29d2bc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDULfKWryb0Hbraoa42RuQMhtpolw" group-title="🔴 BWF Championship",Australian Badminton Open 2026 | Tanya Hemanth (IND) vs Pornpawee Chochuwong (THA) [2] | R16
-https://qtv.my.id/testoken/com.m3u8?id=m1AYZAIti04
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/iIM71LyQoeY/hqdefault.jpg?v=6a29d41a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYlogXs-wsigEX2W6Jav7P-bHoig" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Chou Tien Chen (TPE) [1] vs Dong Tian Yao (CHN) | R16
+https://qtv.my.id/testoken/com.m3u8?id=iIM71LyQoeY
 #EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/ltQV0exp7Wo/hqdefault.jpg?v=6a29dea5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjkHTnKRIkrx3YAZ2iwhSJ3mUVLg" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 3 | Court 3 | Round of 16
 https://qtv.my.id/testoken/com.m3u8?id=ltQV0exp7Wo
 #EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/UdqZ9050qCg/hqdefault.jpg?v=6a29df54&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqo58Zx7QhkdbTQMAuG4DRJlavbw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 3 | Court 4 | Round of 16
@@ -25,7 +25,7 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/buGRp-SNErZ9KI2NrPMubM5j_ic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127806/9d2ed8.jpg", Tanya Hemanth (IND) vs Pornpawee Chochuwong (THA)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/H0xwtjhfURRpJf3x_tfge_ov6BY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127807/55a65f.jpg", Chou Tien Chen (TPE) vs Dong Tian Yao (CHN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
@@ -48,12 +48,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANper
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/H0xwtjhfURRpJf3x_tfge_ov6BY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127807/55a65f.jpg", Chou Tien Chen (TPE) vs Dong Tian Yao (CHN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/p6PO0uYAVHtOCz3zAqw6Q8Xw46o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127817/6218b6.jpg", Yushi Tanaka (JPN) vs Ng Ka Long Angus (HKG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -72,10 +66,10 @@ https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANper
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KFnky9HisdwvswXUi81O9kjngZA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127831/5ece70.jpg", Tanvi Sharma (IND) vs Malvika Bansod (IND)
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2AnznsmOfQyPvkwOJRjmnNdk1oc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127809/ca540c.jpg", Leo Rolly Carnando / Daniel Marthin (INA) vs Liang Wei Keng / Wang Chang (CHN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
@@ -84,10 +78,10 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANper
 https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2AnznsmOfQyPvkwOJRjmnNdk1oc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127809/ca540c.jpg", Leo Rolly Carnando / Daniel Marthin (INA) vs Liang Wei Keng / Wang Chang (CHN)
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/KFnky9HisdwvswXUi81O9kjngZA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127831/5ece70.jpg", Tanvi Sharma (IND) vs Malvika Bansod (IND)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
@@ -96,10 +90,10 @@ https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANper
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VD_w2knxy87WvY_aX9IOXsod0mo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127832/993d41.jpg", Jason Gunawan (HKG) vs Lin Chun-Yi (TPE)
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Kj2dHa9415uMyHv7lgXSYob1YQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127819/31cea3.jpg", Na Sung Seung / Wang Chan (KOR) vs Chen Bo Yang / Liu Yi (CHN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
@@ -108,16 +102,22 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANper
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Kj2dHa9415uMyHv7lgXSYob1YQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127819/31cea3.jpg", Na Sung Seung / Wang Chan (KOR) vs Chen Bo Yang / Liu Yi (CHN)
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/VD_w2knxy87WvY_aX9IOXsod0mo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127832/993d41.jpg", Jason Gunawan (HKG) vs Lin Chun-Yi (TPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/qJ8_wb5LriJyaNnBNxuIJa1g85s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127842/8549f0.jpg", Polina Buhrova/Yevheniia Kantemyr (UKR) vs Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CITBnP0OyKmTbGmVLQ3mGgpHGzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127811/cca5b2.jpg", Gabriela Stoeva / Stefani Stoeva (BUL) vs Audrey Chang / Jasmine Yeung (USA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
@@ -132,16 +132,16 @@ https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=C8YpyyWFANper
 https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CITBnP0OyKmTbGmVLQ3mGgpHGzI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127811/cca5b2.jpg", Gabriela Stoeva / Stefani Stoeva (BUL) vs Audrey Chang / Jasmine Yeung (USA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/26NvlSl198cq7Y8DJLa4OrtDziU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127843/86ffd1.jpg", Lauren Lam/Allison Quynh Lee (USA) vs Hsu Yin-Hui/Lin Jhih Yun (TPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/sfRR-LfTWGz__IFDAgU-jeIOChE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127834/ed38c5.jpg", Peeratchai Sukphun/Pakkapon Teeraratsakul (THA) vs Kang Min Hyuk/Ki Dong Ju (KOR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=19388&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
