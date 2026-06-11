@@ -157,6 +157,12 @@ https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=C8YpyyWFANperN
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=6299&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/q5XhNdt3GS3MUcFkRovmYkL2W9s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128056/5547b6.jpg", Practice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=6299&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aKjj9wDgjE4edSRhkC1xJN3oQPI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127878/3671b1.jpg", Practice 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
