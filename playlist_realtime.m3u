@@ -321,61 +321,61 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a226b7dc5b72d4c3fadd100&type=hls
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304005&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/304005/original/latest.jpg" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Mexico - South Africa
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/304005/original/latest.jpg" group-title="📅 World Cup 26",⏳ Mexico - South Africa
 http://spacetv.my.id/experimen/ge.mpd?id=304005&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304006&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150302-dflfq3vddxus286v.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ South Korea - Czech Republic
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150302-dflfq3vddxus286v.png" group-title="📅 World Cup 26",⏳ South Korea - Czech Republic
 http://spacetv.my.id/experimen/ge.mpd?id=304006&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304007&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150351-mfofgyxrvgtcpxix.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Canada - Bosnia & Herzegovina
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150351-mfofgyxrvgtcpxix.png" group-title="📅 World Cup 26",⏳ Canada - Bosnia & Herzegovina
 http://spacetv.my.id/experimen/ge.mpd?id=304007&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304008&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150442-3s3m8od0d0yr5xxd.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ USA - Paraguay
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150442-3s3m8od0d0yr5xxd.png" group-title="📅 World Cup 26",⏳ USA - Paraguay
 http://spacetv.my.id/experimen/ge.mpd?id=304008&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304009&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150548-it6ej08ezobvwkn5.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Qatar - Switzerland
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150548-it6ej08ezobvwkn5.png" group-title="📅 World Cup 26",⏳ Qatar - Switzerland
 http://spacetv.my.id/experimen/ge.mpd?id=304009&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304010&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150645-58jgutt0qcqfa2sc.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Brazil - Morocco
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150645-58jgutt0qcqfa2sc.png" group-title="📅 World Cup 26",⏳ Brazil - Morocco
 http://spacetv.my.id/experimen/ge.mpd?id=304010&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304012&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150926-tl07fuhv0mavfc8p.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Haiti - Scotland
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150926-tl07fuhv0mavfc8p.png" group-title="📅 World Cup 26",⏳ Haiti - Scotland
 http://spacetv.my.id/experimen/ge.mpd?id=304012&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304013&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151019-lahvlhbwozvwmbp3.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Australia - Turkey
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151019-lahvlhbwozvwmbp3.png" group-title="📅 World Cup 26",⏳ Australia - Turkey
 http://spacetv.my.id/experimen/ge.mpd?id=304013&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304014&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151111-zy3jw1vgngvzehyf.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Germany - Curacao
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151111-zy3jw1vgngvzehyf.png" group-title="📅 World Cup 26",⏳ Germany - Curacao
 http://spacetv.my.id/experimen/ge.mpd?id=304014&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304015&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151226-cvh3abk0vrsmb4ce.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Netherlands - Japan
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151226-cvh3abk0vrsmb4ce.png" group-title="📅 World Cup 26",⏳ Netherlands - Japan
 http://spacetv.my.id/experimen/ge.mpd?id=304015&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304018&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151320-z1tfiq4udwoq54ni.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Ivory Coast - Ecuador
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151320-z1tfiq4udwoq54ni.png" group-title="📅 World Cup 26",⏳ Ivory Coast - Ecuador
 http://spacetv.my.id/experimen/ge.mpd?id=304018&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304020&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151540-8jj1awmqxc80rqt7.png" group-title="📅 WORLDCUP 26 UPCOMING",⏳ Sweden - Tunisia
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02151540-8jj1awmqxc80rqt7.png" group-title="📅 World Cup 26",⏳ Sweden - Tunisia
 http://spacetv.my.id/experimen/ge.mpd?id=304020&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
