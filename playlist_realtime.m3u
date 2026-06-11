@@ -49,7 +49,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANper
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/RS0NzYuYjGI2bVpjoJL7-iCRYlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127837/008639.jpg", Sung Shuo Yun (TPE) vs Lin Hsiang Ti (TPE)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/RS0NzYuYjGI2bVpjoJL7-iCRYlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127837/008639.jpg", Sung Shuo Yun (TPE) vs Lin Hsiang Ti (TPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
@@ -157,7 +157,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=C8YpyyWFANperN
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/QkRLOlkORb6GIumI1wEElVTH-i4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127660/156e45.jpg", Lebanon vs Kazakhstan
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/QkRLOlkORb6GIumI1wEElVTH-i4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127660/156e45.jpg", Lebanon vs Kazakhstan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=C8YpyyWFANperNWhDihTqU270gZOe3gu
 
@@ -260,8 +260,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=21626&type=dash&token=C8YpyyWFANper
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/d2c190e0-cbc2-51df-8da1-05c06b1ff723?type=png&quality=75",🔴 FIFA World Cup 2026™: Countdown Concert: Live Stream
-https://archertv.my.id/wc/index.m3u8?id=2501980739847
 #EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/91aec419-230d-5674-9064-5d6899951259?type=png&quality=75",📅 FIFA World Cup 2026™: Opening Ceremony: Mexico: Live Stream [12/06/26 - 00:40]
 https://archertv.my.id/wc/index.m3u8?id=2502462531554
 #EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/118fa0ef-52e5-51af-812c-b06bdeb66542?type=png&quality=75",📅 FIFA World Cup 2026™: Mexico v South Africa: Group A: Live Stream [12/06/26 - 01:00]
@@ -308,6 +306,8 @@ https://archertv.my.id/wc/index.m3u8?id=2498319427900
 https://archertv.my.id/wc/index.m3u8?id=2498321475934
 #EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/b672e9ef-70b2-5d7e-b9d4-72bfc1aad094?type=png&quality=75",📅 FIFA World Cup 2026™: Austria v Jordan: Group J: Live Stream [17/06/26 - 10:30]
 https://archertv.my.id/wc/index.m3u8?id=2498324547563
+#EXTINF:-1 group-title="📁 World Cup 26" tvg-logo="https://image.pr.sbsod.com/0bb5418d-2216-5697-8122-f9c79a501d1a?type=png&quality=75",📅 FIFA World Cup 2026™: Portugal v Congo DR: Group K: Live Stream [17/06/26 - 23:30]
+https://archertv.my.id/wc/index.m3u8?id=2498348611964
 #EXTM3U
 
 #EXTM3U
