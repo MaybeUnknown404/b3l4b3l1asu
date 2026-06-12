@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/10484aa1-5312-50d1-99fd-484145f1c076?type=png&quality=75",📅 FIFA World Cup 2026™: Canada v Bosnia and Herzegovina: Group B: Live Stream [13/06/26 - 01:30]
+#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/10484aa1-5312-50d1-99fd-484145f1c076?type=png&quality=75",🔴 FIFA World Cup 2026™: Canada v Bosnia and Herzegovina: Group B: Live Stream
 https://qtv.my.id/testoken/wc.m3u8?id=2498300483916
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/a88d8fdd-63aa-551d-b655-2c9f9dd5e8ff?type=png&quality=75",📅 FIFA World Cup 2026™: Opening Ceremony: USA: Live Stream [13/06/26 - 06:40]
 https://qtv.my.id/testoken/wc.m3u8?id=2502463043915
@@ -61,6 +61,9 @@ https://qtv.my.id/testoken/com.m3u8?id=CAZE1
 
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://losangelesfwc26.com/wp-content/uploads/2025/02/FWC26-Sonic-16x9_tournament-16x9-English-1.webp",CazeTV 2
 https://qtv.my.id/testoken/com.m3u8?id=CAZE2
+
+#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://losangelesfwc26.com/wp-content/uploads/2025/02/FWC26-Sonic-16x9_tournament-16x9-English-1.webp",CazeTV 3
+https://qtv.my.id/testoken/com.m3u8?id=CAZE3
 
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",RTBGO
 https://qtv.my.id/testoken/com.m3u8?id=RTBGO2
