@@ -48,8 +48,8 @@ https://archertv.my.id/wc/index42.m3u8?id=2498353731693
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/1fe8ad54-9180-5f27-aa5e-74d8eb8c70e8?type=png&quality=75",📅 FIFA World Cup 2026™: Uzbekistan v Colombia: Group K: Live Stream [18/06/26 - 08:30]
 https://archertv.my.id/wc/index42.m3u8?id=2498355779711
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/H7JngjJ4V7U/hqdefault.jpg?v=6a2b13ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Q8FecaPkg-sSXwhLejPFKEBcaQ" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Dong Tian Yao (CHN) vs Ng Ka Long Angus (HKG) | QF
-https://qtv.my.id/testoken/com.m3u8?id=H7JngjJ4V7U
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/GpA7px9a5Ng/hqdefault.jpg?v=6a2b15c7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkA3X4oUr86fP2NWn9W2LsTcPQ" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Moh. Zaki Ubaidillah (INA) vs Justin Hoh (MAS) | QF
+https://qtv.my.id/testoken/com.m3u8?id=GpA7px9a5Ng
 #EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/os8s1vaGavE/hqdefault.jpg?v=6a2b1b81&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhLLNMdpK6E9YqbHkcPPkEgx79kw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 3 | Quarterfinals
 https://qtv.my.id/testoken/com.m3u8?id=os8s1vaGavE
 #EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/SLs5vMF1Cwk/hqdefault.jpg?v=6a2b1aef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC_DHEoLSNrp2JSNgLx65RYrmvIw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 2 | Quarterfinals
@@ -114,7 +114,7 @@ https://thunderbolt.web.id/live/imam/123/184.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/CXolVJHEsqPtK-xn29McV9WvZao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128994/e7039e.jpg", Dong Tian Yao (CHN) vs Ng Ka Long Angus (HKG)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/-GGsFxddDlOuxSxuzqHYw4wwqaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128995/865076.jpg", Moh. Zaki Ubaidillah (INA) vs Justin Hoh (MAS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
@@ -137,18 +137,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUr
 https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OebzQ8nRs86-Lb8BpypFZVzgcdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129012/d42d40.jpg", Jia Yi Fan/Zhang Shu Xian (CHN) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-GGsFxddDlOuxSxuzqHYw4wwqaA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128995/865076.jpg", Moh. Zaki Ubaidillah (INA) vs Justin Hoh (MAS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IIwCxPq69y_hzTTh7w2iKLPR2jo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-quarterfinals-court-2-389558.jpg", Chen Cheng Kuan / Liu Kuang Heng (TPE) vs Hariharan Amsakarunan / M.R. Arjun (IND)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -159,6 +147,12 @@ https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=4OYOhorIaTkUr
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aE0ti5mLXwsiRpTqy0UWum2tHgE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128996/868310.jpg", Kang Min Hyuk/Ki Dong Ju (KOR) vs Liang Wei Keng/Wang Chang (CHN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OebzQ8nRs86-Lb8BpypFZVzgcdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129012/d42d40.jpg", Jia Yi Fan/Zhang Shu Xian (CHN) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
