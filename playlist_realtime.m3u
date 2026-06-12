@@ -253,13 +253,13 @@ https://susu2.indi2.workers.dev/index.mpd?id=206&type=dash&token=4OYOhorIaTkUryr
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a226dc782eca649df3426dd&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a226dc782eca649df3426dd&type=hls
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780679485842-WorldWCR1.jpg" tvg-name="",Rd 4 Pirelli Emilia-Romagna: Tissot Superpole
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780889839068-SUPERPOLE.jpg" tvg-name="",Rd 7 Pirelli Emilia-Romagna: SPB Superpole/SBK FP2/SSP Superpole
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a23035282eca649df3426ea&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a23035282eca649df3426ea&type=hls
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a231183c5b72d4c3fadd112&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a231183c5b72d4c3fadd112&type=hls
 
 #EXTM3U
 
