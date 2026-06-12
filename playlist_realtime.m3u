@@ -48,11 +48,11 @@ https://archertv.my.id/wc/index42.m3u8?id=2498353731693
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/1fe8ad54-9180-5f27-aa5e-74d8eb8c70e8?type=png&quality=75",📅 FIFA World Cup 2026™: Uzbekistan v Colombia: Group K: Live Stream [18/06/26 - 08:30]
 https://archertv.my.id/wc/index42.m3u8?id=2498355779711
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/H7JngjJ4V7U/hqdefault.jpg?v=6a2b13ef&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD55F5eYvV1iNmGrh6MEQbJ2AmPXA" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Dong Tian Yao (CHN) vs Ng Ka Long Angus (HKG) | QF
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/H7JngjJ4V7U/hqdefault.jpg?v=6a2b13ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Q8FecaPkg-sSXwhLejPFKEBcaQ" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Dong Tian Yao (CHN) vs Ng Ka Long Angus (HKG) | QF
 https://qtv.my.id/testoken/com.m3u8?id=H7JngjJ4V7U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/os8s1vaGavE/hqdefault.jpg?v=6a2b1b81&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAzpb6GX6ULU_FDJvTVqLdT7U_XpA" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 3 | Quarterfinals
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/os8s1vaGavE/hqdefault.jpg?v=6a2b1b81&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhLLNMdpK6E9YqbHkcPPkEgx79kw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 3 | Quarterfinals
 https://qtv.my.id/testoken/com.m3u8?id=os8s1vaGavE
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/SLs5vMF1Cwk/hqdefault.jpg?v=6a2b1aef&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCOSWgj8VLmfI5aZK-CRR2kZpKTWQ" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 2 | Quarterfinals
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/SLs5vMF1Cwk/hqdefault.jpg?v=6a2b1aef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC_DHEoLSNrp2JSNgLx65RYrmvIw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 2 | Quarterfinals
 https://qtv.my.id/testoken/com.m3u8?id=SLs5vMF1Cwk
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -255,12 +255,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=4OYOhorIaTkUry
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/713pBa-OCknIDBXgUdSQaPcpWQw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128071/3e5c02.jpg", Race
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=6299&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/6gtjcWSt8DWA9gGlvVEunQNR1rc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5127873/b303b9.jpg", Iran vs Hong Kong
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21254&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
