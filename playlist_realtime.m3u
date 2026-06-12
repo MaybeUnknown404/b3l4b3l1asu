@@ -54,10 +54,7 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498355779711
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",TSN 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+https://qtv.my.id/testoken/com.m3u8?id=TSN
 
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",RTBGO
 https://qtv.my.id/testoken/com.m3u8?id=RTBGO2
