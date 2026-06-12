@@ -48,11 +48,11 @@ https://archertv.my.id/wc/index42.m3u8?id=2498355779507
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/d8a82ba4-8942-5dae-90e0-bce44505b4b1?type=png&quality=75",📅 FIFA World Cup 2026™: Ghana v Panama: Group L: Live Stream [18/06/26 - 05:30]
 https://archertv.my.id/wc/index42.m3u8?id=2498353731693
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/f-bL0zXcXz8/hqdefault.jpg?v=6a2b0e73&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh5SHHJgbaMVMnseqco-2yG6O9Ew" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Lee Chia Hao (TPE) vs Alwi Farhan (INA) [3] | QF
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/f-bL0zXcXz8/hqdefault.jpg?v=6a2b0e73&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDlOAn7DOMIlYtXMgEKwbPvbyHCVQ" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Lee Chia Hao (TPE) vs Alwi Farhan (INA) [3] | QF
 https://qtv.my.id/testoken/com.m3u8?id=f-bL0zXcXz8
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/os8s1vaGavE/hqdefault.jpg?v=6a2b1b81&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhLLNMdpK6E9YqbHkcPPkEgx79kw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 3 | Quarterfinals
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/os8s1vaGavE/hqdefault.jpg?v=6a2b1b81&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAzpb6GX6ULU_FDJvTVqLdT7U_XpA" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 3 | Quarterfinals
 https://qtv.my.id/testoken/com.m3u8?id=os8s1vaGavE
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/SLs5vMF1Cwk/hqdefault.jpg?v=6a2b1aef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC_DHEoLSNrp2JSNgLx65RYrmvIw" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 2 | Quarterfinals
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/SLs5vMF1Cwk/hqdefault.jpg?v=6a2b1aef&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCOSWgj8VLmfI5aZK-CRR2kZpKTWQ" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Day 4 | Court 2 | Quarterfinals
 https://qtv.my.id/testoken/com.m3u8?id=SLs5vMF1Cwk
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -120,7 +120,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=4OYOhorIaTkUr
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/wZbgwKk-foq12BH_yvcI-d5IZsI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129001/edab74.jpg", Rehan Naufal Kusharjanto / Gloria Emanuelle Widjaja (INA) vs Guo Xin Wa / Chen Fang Hui (CHN)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/2LmYemCwk_RtRFJFU-Rs8VuXnSU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129002/35118c.jpg", Lin Hsiang Ti (TPE) vs Nozomi Okuhara (JPN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
@@ -137,12 +137,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUr
 https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2LmYemCwk_RtRFJFU-Rs8VuXnSU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129002/35118c.jpg", Lin Hsiang Ti (TPE) vs Nozomi Okuhara (JPN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m8qHkCiCKA02JTFa3W7zuchLW-Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128993/486235.jpg", Akane Yamaguchi (JPN) vs Tanvi Sharma (IND)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -155,10 +149,10 @@ https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=4OYOhorIaTkUr
 https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XSMuhZy2V3LruBwagErKNKSfVGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129011/d98c60.jpg", Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) vs Low Zi Yu/Noraqilah Maisarah (MAS)
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fGURmc1lt4v4ZEZzuAQ9bTtR6pA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129003/6fc009.jpg", Luo Yi / Wang Ting Ge (CHN) vs Hsu Yin-Hui / Lin Jhih Yun (TPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
+https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
@@ -167,14 +161,8 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUr
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/fGURmc1lt4v4ZEZzuAQ9bTtR6pA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129003/6fc009.jpg", Luo Yi / Wang Ting Ge (CHN) vs Hsu Yin-Hui / Lin Jhih Yun (TPE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OebzQ8nRs86-Lb8BpypFZVzgcdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129012/d42d40.jpg", Jia Yi Fan/Zhang Shu Xian (CHN) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/XSMuhZy2V3LruBwagErKNKSfVGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129011/d98c60.jpg", Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) vs Low Zi Yu/Noraqilah Maisarah (MAS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
@@ -191,16 +179,22 @@ https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=4OYOhorIaTkUr
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IIwCxPq69y_hzTTh7w2iKLPR2jo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-quarterfinals-court-2-389558.jpg", Chen Cheng Kuan / Liu Kuang Heng (TPE) vs Hariharan Amsakarunan / M.R. Arjun (IND)
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/OebzQ8nRs86-Lb8BpypFZVzgcdE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5129012/d42d40.jpg", Jia Yi Fan/Zhang Shu Xian (CHN) vs Hsu Ya Ching/Sung Yu-Hsuan (TPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
+https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/aE0ti5mLXwsiRpTqy0UWum2tHgE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5128996/868310.jpg", Kang Min Hyuk/Ki Dong Ju (KOR) vs Liang Wei Keng/Wang Chang (CHN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IIwCxPq69y_hzTTh7w2iKLPR2jo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sathio-group-australian-badminton-open-2026-quarterfinals-court-2-389558.jpg", Chen Cheng Kuan / Liu Kuang Heng (TPE) vs Hariharan Amsakarunan / M.R. Arjun (IND)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=4OYOhorIaTkUryrXDeNNQyOnNkcpqXQh
