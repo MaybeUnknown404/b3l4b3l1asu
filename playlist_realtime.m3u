@@ -47,9 +47,6 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498352707747
 https://qtv.my.id/testoken/wc.m3u8?id=2498351683941
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/0c4ada38-d52f-52fa-bc3a-0bd259f87d58?type=png&quality=75",📅 FIFA World Cup 2026™: Mexico v Korea Republic: Group A: Live Stream [19/06/26 - 07:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498356291734
-#EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/lrPdjGtZGzA/hqdefault.jpg?v=6a2c8ddd&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAC6xXBrdFnISMJoEO5QJcb0wgm4Q" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Dong Tian Yao (CHN) vs Moh. Zaki Ubaidillah (INA) | SF
-https://qtv.my.id/testoken/com.m3u8?id=lrPdjGtZGzA
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -120,7 +117,7 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/YkmUzGaPaJxh4DDOPs0TWHu0vio=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131833/493d8c.jpg", Dong Tian Yao (CHN) vs Moh. Zaki Ubaidillah (INA)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/HR24U5Pv84eObqOEdqHqd5qKJg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sathio-group-australian-badminton-open-2026-semifinals-court-1-a8eed5.jpg", SATHIO GROUP Australian Badminton Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
 
