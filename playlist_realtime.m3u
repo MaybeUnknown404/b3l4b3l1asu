@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/f35c17ad-b42b-55b3-a70f-f74a4bcffcb7?type=png&quality=75",🔴 FIFA World Cup 2026™: USA v Paraguay: Group D: Live Stream
-https://qtv.my.id/testoken/wc.m3u8?id=2498310211681
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",📅 FIFA World Cup 2026™: Qatar v Switzerland: Group B: Live Stream [14/06/26 - 01:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498306627540
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/36e74986-2123-523a-8f5b-28dc24a09a7e?type=png&quality=75",📅 FIFA World Cup 2026™: Brazil v Morocco: Group C: Live Stream [14/06/26 - 04:30]
@@ -47,8 +45,10 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498351683806
 https://qtv.my.id/testoken/wc.m3u8?id=2498352707747
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/ec11dc41-d8e9-5cec-b1fb-50ec01917a9e?type=png&quality=75",📅 FIFA World Cup 2026™: Canada v Qatar: Group B: Live Stream [19/06/26 - 04:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498351683941
+#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/0c4ada38-d52f-52fa-bc3a-0bd259f87d58?type=png&quality=75",📅 FIFA World Cup 2026™: Mexico v Korea Republic: Group A: Live Stream [19/06/26 - 07:30]
+https://qtv.my.id/testoken/wc.m3u8?id=2498356291734
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/zz7ztLTDwjM/hqdefault.jpg?v=6a2c8344&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBSdmjgWxVnXrrTH6IwHVcsM1qd9Q" group-title="🔴 BWF Championship",Australian Badminton Open 2026 | Nozomi Okuhara (JPN) [4] vs Pornpawee Chochuwong (THA) [2] | SF
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/zz7ztLTDwjM/hqdefault.jpg?v=6a2c8344&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcnQh2MGl_p0r-04xEXdne5yeXDg" group-title="🔴 BWF Championship",Australian Badminton Open 2026 | Nozomi Okuhara (JPN) [4] vs Pornpawee Chochuwong (THA) [2] | SF
 https://qtv.my.id/testoken/com.m3u8?id=zz7ztLTDwjM
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
