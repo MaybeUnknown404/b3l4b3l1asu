@@ -116,6 +116,12 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/nyuk.kt?id=21633&type=drm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/xcC25A1LBKhuZl6pWM4b-cbj4PM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133178/72a5fc.jpg", Trophy Awarding Ceremony
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
+
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
