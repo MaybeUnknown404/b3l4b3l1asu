@@ -47,6 +47,13 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498352707747
 https://qtv.my.id/testoken/wc.m3u8?id=2498351683941
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/0c4ada38-d52f-52fa-bc3a-0bd259f87d58?type=png&quality=75",📅 FIFA World Cup 2026™: Mexico v Korea Republic: Group A: Live Stream [19/06/26 - 07:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498356291734
+#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://mma.prnewswire.com/media/2902999/FIFA_names_Aleph_exclusive_partner__World_Cup_2026.jpg?p=twitter",Aleph Arena
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://yt3.googleusercontent.com/3bbZA_O8laeTkPHdjJlbs-rOiPUfdfVzuAOGHgoxzJhr7iH4Ahi_IMFpiazBTzOHUfdmFdeKaw=s900-c-k-c0x00ffffff-no-rj",TVRI Sports
 https://qtv.my.id/testoken/com.m3u8?id=FOLA
 
