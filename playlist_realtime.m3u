@@ -292,6 +292,12 @@ https://susu2.indi2.workers.dev/index.mpd?id=21647&type=dash&token=gHegrxjc1kOAt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21648&type=dash&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21648&type=drm&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IsCC-oGyoj3Ci5zwU3e5_m04wU4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133181/b46536.jpg", Men: Brazil vs Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=21648&type=dash&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
+
 #EXTM3U
 
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780646830591-ARCHERYWC.jpg" tvg-name="",Stage 3 Antalya | Compound Team Finals
