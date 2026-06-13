@@ -126,12 +126,6 @@ https://archertv.my.id/atraksi/mlngktl.mpd?id=21633&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/T1tTJKkKyOXsAFp3I76JlTvSk3o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131829/ad660d.jpg", Akane Yamaguchi (JPN) vs Pusarla V. Sindhu (IND)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
 #EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/J8JeFlz3g8MAuhsOmzNxc6emlRg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131830/838f74.jpg", Jia Yi Fan/Zhang Shu Xian (CHN) vs Rachel Allessya Rose/Febi Setianingrum (INA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
