@@ -48,7 +48,7 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498351683941
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/0c4ada38-d52f-52fa-bc3a-0bd259f87d58?type=png&quality=75",📅 FIFA World Cup 2026™: Mexico v Korea Republic: Group A: Live Stream [19/06/26 - 07:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498356291734
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/EhcSgKbd3LI/hqdefault.jpg?v=6a2c8a7d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxmnhLLINtyubm_Oj-0aukhZWTNg" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Jia/Zhang (CHN) [1] v Rose/Setianingrum (INA) [5] | SF
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/EhcSgKbd3LI/hqdefault.jpg?v=6a2c8a7d&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCexXHBAzIrkIAMo208ce9benejgg" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Jia/Zhang (CHN) [1] v Rose/Setianingrum (INA) [5] | SF
 https://qtv.my.id/testoken/com.m3u8?id=EhcSgKbd3LI
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -287,14 +287,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=21648&type=dash&token=gHegrxjc1kOAt
 https://susu2.indi2.workers.dev/index.mpd?id=21647&type=dash&token=gHegrxjc1kOAtEVVhoJeNP6xHZ9ETSzm
 
 #EXTM3U
-
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780988260572-LiveThumbnail14.jpg" tvg-name="",Rd 3 Motegi: Race 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a227fd082eca649df3426e3&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a227fd082eca649df3426e3&type=hls
 
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780646830591-ARCHERYWC.jpg" tvg-name="",Stage 3 Antalya | Compound Team Finals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
