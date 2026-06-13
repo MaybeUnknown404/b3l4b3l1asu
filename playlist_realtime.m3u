@@ -302,6 +302,14 @@ https://susu2.indi2.workers.dev/index.mpd?id=21648&type=dash&token=gHegrxjc1kOAt
 #KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a2283c7c5b72d4c3fadd10b&type=drm
 https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a2283c7c5b72d4c3fadd10b&type=hls
 
+#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780889976951-FREEPRACTICE3.jpg" tvg-name="",Rd 7 Pirelli Emilia-Romagna: SBK FP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a23120dc5b72d4c3fadd113&type=drm
+https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a23120dc5b72d4c3fadd113&type=hls
+
 #EXTM3U
 
 #EXTM3U
