@@ -71,6 +71,12 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/epg9sw
 #EXTINF:-1 tvg-logo="https://losangelesfwc26.com/wp-content/uploads/2025/02/FWC26-Sonic-16x9_tournament-16x9-English-1.webp" group-title="📁 WORLDCUP 26 CH",CAZE TV 3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
+#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://www.fussball.de/static/layout/fbde2/por/8.88.0.1/images/default_sharing.jpg",Fussball 1 UHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",RTBGO
 https://qtv.my.id/testoken/com.m3u8?id=RTBGO2
 
