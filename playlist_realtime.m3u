@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/a88d8fdd-63aa-551d-b655-2c9f9dd5e8ff?type=png&quality=75",🔴 FIFA World Cup 2026™: Opening Ceremony: USA: Live Stream
-https://qtv.my.id/testoken/wc.m3u8?id=2502463043915
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/f35c17ad-b42b-55b3-a70f-f74a4bcffcb7?type=png&quality=75",📅 FIFA World Cup 2026™: USA v Paraguay: Group D: Live Stream [13/06/26 - 07:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498310211681
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",📅 FIFA World Cup 2026™: Qatar v Switzerland: Group B: Live Stream [14/06/26 - 01:30]
@@ -47,6 +45,8 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498355779711
 https://qtv.my.id/testoken/wc.m3u8?id=2498351683806
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/88888007-b16f-56f5-8631-926a67d4e92c?type=png&quality=75",📅 FIFA World Cup 2026™: Switzerland v Bosnia and Herzegovina: Group B: Live Stream [19/06/26 - 01:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498352707747
+#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/ec11dc41-d8e9-5cec-b1fb-50ec01917a9e?type=png&quality=75",📅 FIFA World Cup 2026™: Canada v Qatar: Group B: Live Stream [19/06/26 - 04:30]
+https://qtv.my.id/testoken/wc.m3u8?id=2498351683941
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
