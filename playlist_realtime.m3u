@@ -48,7 +48,7 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498351683941
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/0c4ada38-d52f-52fa-bc3a-0bd259f87d58?type=png&quality=75",📅 FIFA World Cup 2026™: Mexico v Korea Republic: Group A: Live Stream [19/06/26 - 07:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498356291734
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/zz7ztLTDwjM/hqdefault.jpg?v=6a2c8344&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcnQh2MGl_p0r-04xEXdne5yeXDg" group-title="🔴 BWF Championship",Australian Badminton Open 2026 | Nozomi Okuhara (JPN) [4] vs Pornpawee Chochuwong (THA) [2] | SF
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/zz7ztLTDwjM/hqdefault.jpg?v=6a2c8344&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBSdmjgWxVnXrrTH6IwHVcsM1qd9Q" group-title="🔴 BWF Championship",Australian Badminton Open 2026 | Nozomi Okuhara (JPN) [4] vs Pornpawee Chochuwong (THA) [2] | SF
 https://qtv.my.id/testoken/com.m3u8?id=zz7ztLTDwjM
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
