@@ -48,8 +48,8 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498351683941
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/0c4ada38-d52f-52fa-bc3a-0bd259f87d58?type=png&quality=75",📅 FIFA World Cup 2026™: Mexico v Korea Republic: Group A: Live Stream [19/06/26 - 07:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498356291734
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/RTRxpXulXhg/hqdefault.jpg?v=6a2c8867&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWyxcF5j01PTjQlCBhSFxGuiURFQ" group-title="🔴 BWF Championship",SATHIO GROUP Australian Badminton Open 2026 | Hsu/Lin (TPE) [4] vs Kusuma/Puspitasari (INA) [7] | SF
-https://qtv.my.id/testoken/com.m3u8?id=RTRxpXulXhg
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/jqmIc5HMPck/hqdefault.jpg?v=6a2c8976&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSZrk4BPBXcGuJc8f7xk98lewKMw" group-title="🔴 BWF Championship",Australian Badminton Open 2026 | Akane Yamaguchi (JPN) [1] vs Pusarla V. Sindhu (IND) [3] | SF
+https://qtv.my.id/testoken/com.m3u8?id=jqmIc5HMPck
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
