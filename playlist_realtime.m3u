@@ -48,7 +48,7 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498356291816
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/4a7d1e91-3e5d-582f-af70-39bc7cea0aba?type=png&quality=75",📅 FIFA World Cup 2026™: Brazil v Haiti: Group C: Live Stream [20/06/26 - 07:00]
 https://qtv.my.id/testoken/wc.m3u8?id=2498354243991
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/iciHjlGJSEE/hqdefault.jpg?v=6a2dad73&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDNErWQKagHVNlqke2lXPhiX3nHwA" group-title="🔴 BWF Championship",Australian Badminton Open 2026 | Akane Yamaguchi (JPN) [1] vs Pornpawee Chochuwong (THA) [2] | F
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/iciHjlGJSEE/hqdefault.jpg?v=6a2dad73&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgErJizSUTsKlDllB7ExLG6MoUkQ" group-title="🔴 BWF Championship",Australian Badminton Open 2026 | Akane Yamaguchi (JPN) [1] vs Pornpawee Chochuwong (THA) [2] | F
 https://qtv.my.id/testoken/com.m3u8?id=iciHjlGJSEE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
@@ -127,13 +127,7 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd#EXT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=2iRE2i8vCJjM99sOh3ZyfLlEwD8886pv
-#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/ZvEcPCgU-Kpi2c3CGCTA46pSA_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133588/6efcdc.jpg", Jia Yi Fan/Zhang Shu Xian (CHN) vs Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=2iRE2i8vCJjM99sOh3ZyfLlEwD8886pv
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=2iRE2i8vCJjM99sOh3ZyfLlEwD8886pv
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/jNvVPufi3whrtvO3o5CZo7eTgjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133589/c81b4e.jpg", Akane Yamaguchi (JPN) vs Pornpawee Chochuwong (THA)
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/jNvVPufi3whrtvO3o5CZo7eTgjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5133589/c81b4e.jpg", Akane Yamaguchi (JPN) vs Pornpawee Chochuwong (THA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=2iRE2i8vCJjM99sOh3ZyfLlEwD8886pv
 
