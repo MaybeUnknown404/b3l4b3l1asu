@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/c212a03f-82fd-50e7-8b91-55eafb9d5281?type=png&quality=75",🔴 FIFA World Cup 2026™: Brazil v Morocco: Group C: Live Stream
-https://qtv.my.id/testoken/wc.m3u8?id=2498309187714
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/b4a855bd-55ba-5d52-bcfd-4f232cafbdf3?type=png&quality=75",🔴 FIFA World Cup 2026™: Haiti v Scotland: Group C: Live Stream
 https://qtv.my.id/testoken/wc.m3u8?id=2498309699704
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/d3785887-7366-527a-9484-6955b9b6240f?type=png&quality=75",📅 FIFA World Cup 2026™: Australia v Türkiye: Group D: Live Stream [14/06/26 - 10:00]
@@ -47,6 +45,8 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498351683941
 https://qtv.my.id/testoken/wc.m3u8?id=2498356291734
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/9a99a14e-c645-5c14-a5b2-0a8155ed8a86?type=png&quality=75",📅 FIFA World Cup 2026™: USA v Australia: Group D: Live Stream [20/06/26 - 01:00]
 https://qtv.my.id/testoken/wc.m3u8?id=2498353219934
+#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/380d0266-3c49-55d7-80f7-3d0976fc9ee1?type=png&quality=75",📅 FIFA World Cup 2026™: Scotland v Morocco: Group C: Live Stream [20/06/26 - 04:30]
+https://qtv.my.id/testoken/wc.m3u8?id=2498356291816
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://helios-i.mashable.com/imagery/articles/00acooSQH66i9ABbJYTNJD2/hero-image.fill.size_1248x702.v1755614446.png",FOX ONE
