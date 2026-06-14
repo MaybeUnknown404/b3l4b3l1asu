@@ -47,7 +47,7 @@ https://qtv.my.id/testoken/wc.m3u8?id=2498356291816
 https://qtv.my.id/testoken/wc.m3u8?id=2498354243991
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/2e2869fe-c083-5eb3-9286-2df072cd6d09?type=png&quality=75",📅 FIFA World Cup 2026™: Türkiye v Paraguay: Group D: Live Stream [20/06/26 - 09:30]
 https://qtv.my.id/testoken/wc.m3u8?id=2498360899510
-#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/abd74a80262985.5cdc3e9f1493c.gif",FOX ONE
+#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/abd74a80262985.5cdc3e9f1493c.gif",SBS SPORTS
 https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
