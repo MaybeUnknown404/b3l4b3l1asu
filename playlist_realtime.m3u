@@ -281,7 +281,7 @@ https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a227167c5b72d4c3fadd106&type=hls
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304012&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/304012/original/latest.jpg" group-title="📅 World Cup 26",⏳ Haiti - Scotland
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/304012/original/latest.jpg" group-title="🔴 World Cup 26",🔴 Haiti - Scotland
 http://spacetv.my.id/experimen/ge.mpd?id=304012&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -338,4 +338,9 @@ http://spacetv.my.id/experimen/ge.mpd?id=304029&type=dash|User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304031&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02152123-vhefoqnvqp3tgwwg.png" group-title="📅 World Cup 26",⏳ Iraq - Norway
 http://spacetv.my.id/experimen/ge.mpd?id=304031&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=304033&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02152349-drmyj3y2eg0fm4ay.png" group-title="📅 World Cup 26",⏳ Argentina - Algeria
+http://spacetv.my.id/experimen/ge.mpd?id=304033&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
