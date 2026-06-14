@@ -66,10 +66,8 @@ https://relay-serv.powercdn.my.id/lhr-nitro/live/clients/dash/enc/slc1dkcymj/out
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Lhokseumawe/o/1759252330582-WC26_x_TVRI/e8qe2oh57vgl3xy.jpeg",TVRI Sports
 https://qtv.my.id/testoken/com.m3u8?id=FOLA
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efe538648aad30c9893edf1a69eb8c8e:fe9b77088a67777af435c3fa5f1bbdd0
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Lhokseumawe/o/1759252330582-WC26_x_TVRI/e8qe2oh57vgl3xy.jpeg",TVRI Sports S2
-https://tencent-css.byteplaycdn.com/438fd9f8aa42ae5c94d3fc29887bbb32/6A2F7F41/Content/DASH_ENC2/Live/channel(tselwc1)/master.mpd
+https://qtv.my.id/testoken/htv.m3u8?id=INDITVWC
 
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
