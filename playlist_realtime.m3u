@@ -63,7 +63,7 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://www.tvguide.com/a/img/resize/15d65f2cc0a3feda446f7c56a4c1e8077481625a/hub/2025/07/01/ca3dd5e5-f323-4668-85e5-14c1926ab080/itvx.jpg?auto=webp&width=1092",ITV
 https://relay-serv.powercdn.my.id/lhr-nitro/live/clients/dash/enc/slc1dkcymj/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
-#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://yt3.googleusercontent.com/3bbZA_O8laeTkPHdjJlbs-rOiPUfdfVzuAOGHgoxzJhr7iH4Ahi_IMFpiazBTzOHUfdmFdeKaw=s900-c-k-c0x00ffffff-no-rj",TVRI Sports
+#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Lhokseumawe/o/1759252330582-WC26_x_TVRI/e8qe2oh57vgl3xy.jpeg",TVRI Sports
 https://qtv.my.id/testoken/com.m3u8?id=FOLA
 
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://images.seeklogo.com/logo-png/31/2/fs1-logo-png_seeklogo-314481.png",FS1
