@@ -246,15 +246,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=2iRE2i8vCJjM9
 
 #EXTM3U
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780890141087-SUPERPOLERACE.jpg" tvg-name="",Rd 7 Pirelli Emilia-Romagna: SBK Tissot Superpole Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a23202b82eca649df3426eb&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a23202b82eca649df3426eb&type=hls
-
-#EXTM3U
+Error mengambil data dari API.#EXTM3U
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
