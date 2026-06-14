@@ -204,14 +204,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=w0OUxu9MuiQ4q
 
 #EXTM3U
 
-#EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780687562713-LiveThumbnail3.jpg" tvg-name="",NASCAR Cup Series at Pocono
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sixtinine.web.id/atraksi/spotv.php?id=6a2322d882eca649df3426ee&type=drm
-https://sixtinine.web.id/atraksi/spotv.m3u8?id=6a2322d882eca649df3426ee&type=hls
-
 #EXTINF:-1 group-title="🔴 Live Event" tvg-logo="https://ds.vstv.videoready.tv/util/1780596307064-BLUEJAYSVSYANKEES.jpg" tvg-name="",Toronto Blue Jays vs New York Yankees
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
