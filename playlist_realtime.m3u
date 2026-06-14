@@ -153,7 +153,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=21254&type=dash&token=2iRE2i8vCJjM9
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21646&type=drm&token=2iRE2i8vCJjM99sOh3ZyfLlEwD8886pv
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/iBVc1p9QujSvVnfuUsM11YbGA7M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132034/4b0476.jpg", Men: China vs Cuba
+#EXTINF:-1 group-logo="" group-title="🔴 Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/iBVc1p9QujSvVnfuUsM11YbGA7M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132034/4b0476.jpg", Men: China vs Cuba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21646&type=dash&token=2iRE2i8vCJjM99sOh3ZyfLlEwD8886pv
 
