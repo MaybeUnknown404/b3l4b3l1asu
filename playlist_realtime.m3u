@@ -50,6 +50,12 @@ https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/abd74a80262985.5cdc3e9f1493c.gif",SBS SPORTS
 https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 
+#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=712wbfqz8apl1k09rf681eqxd_image-header_pDach_1661948855000&quality=70",FUSSBALLTV 1
+https://qtv.my.id/testoken/com.m3u8?id=FUSSBALLTV1
+
+#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=712wbfqz8apl1k09rf681eqxd_image-header_pDach_1661948855000&quality=70",FUSSBALLTV 2
+https://qtv.my.id/testoken/com.m3u8?id=FUSSBALLTV1
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://helios-i.mashable.com/imagery/articles/00acooSQH66i9ABbJYTNJD2/hero-image.fill.size_1248x702.v1755614446.png",FOX ONE
@@ -60,11 +66,6 @@ https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://mma.prnewswire.com/media/2902999/FIFA_names_Aleph_exclusive_partner__World_Cup_2026.jpg?p=twitter",Aleph Arena
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6c1c527303bc577b85eb849cbab75d2:ec533d484c550a892ff162e4a5f4dbc3
-#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://www.tvguide.com/a/img/resize/15d65f2cc0a3feda446f7c56a4c1e8077481625a/hub/2025/07/01/ca3dd5e5-f323-4668-85e5-14c1926ab080/itvx.jpg?auto=webp&width=1092",ITV
-https://relay-serv.powercdn.my.id/lhr-nitro/live/clients/dash/enc/slc1dkcymj/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Lhokseumawe/o/1759252330582-WC26_x_TVRI/e8qe2oh57vgl3xy.jpeg",TVRI Sports
 https://qtv.my.id/testoken/com.m3u8?id=FOLA
@@ -162,13 +163,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=w0OUxu9MuiQ4q
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vO-s8BKDr4NFHxQ278WG4Beyht8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-4-227873.jpg", Huang Yu Kai (TPE) vs Rounak Chouhan (IND)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/kEDYvz19vAlYzx_b799qFEoHtQc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137781/56825c.jpg", Huang Yu Kai (TPE) vs Rounak Chouhan (IND)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/m48HKJ3RiDSXYg7nJhArixCJUyI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137781/42d53e.jpg", Huang Yu Kai (TPE) vs Rounak Chouhan (IND)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 
@@ -177,6 +172,12 @@ https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=w0OUxu9MuiQ4q
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2P4bntWwF2cE3n3S3wsunjgL8ac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137793/aced7a.jpg", Alap Mishra (IND) vs Hein Htut (MYA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vO-s8BKDr4NFHxQ278WG4Beyht8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-4-227873.jpg", Huang Yu Kai (TPE) vs Rounak Chouhan (IND)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
@@ -192,7 +193,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=w0OUxu9MuiQ4q
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_uQPkB-V64MDTofAoHJ2fHTIX3A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137782/063107.jpg", Kuo Kuan Lin (TPE) vs Manraj Singh (IND)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/5RXSePZZ6g1Y3sJcpCL-BKHhUOo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137782/a8cfe6.jpg", Kuo Kuan Lin (TPE) vs Manraj Singh (IND)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 
@@ -222,7 +223,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=w0OUxu9MuiQ4q
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/bKnOrIcZIEY5uzE702-mxHSLPSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137783/4e826d.jpg", Zhe Ying Wu (TPE) vs Ade Resky Dwicahyo (AZE)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-qmFFW0cvosz3A7CUbzXYE0UZU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137783/5d8e4b.jpg", Zhe Ying Wu (TPE) vs Ade Resky Dwicahyo (AZE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 
@@ -240,7 +241,7 @@ https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4q
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/HJmw6i6-VXZnMD5Y378NKc5H0_w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137784/3c6cd5.jpg", Wang Yue Hang/Cho Wai Lam (ENG) vs Lu Chen/Hung Hsin En (TPE)
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/3zQ7Jdt5yFtYBP0kFnIq1OEuSrc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137784/3aa365.jpg", Wang Yue Hang/Cho Wai Lam (ENG) vs Lu Chen/Hung Hsin En (TPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 
