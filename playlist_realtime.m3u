@@ -50,12 +50,6 @@ https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/abd74a80262985.5cdc3e9f1493c.gif",SBS SPORTS
 https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 
-#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=712wbfqz8apl1k09rf681eqxd_image-header_pDach_1661948855000&quality=70",FUSSBALLTV 1
-https://qtv.my.id/testoken/com.m3u8?id=FUSSBALLTV1
-
-#EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=712wbfqz8apl1k09rf681eqxd_image-header_pDach_1661948855000&quality=70",FUSSBALLTV 2
-https://qtv.my.id/testoken/com.m3u8?id=FUSSBALLTV1
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://helios-i.mashable.com/imagery/articles/00acooSQH66i9ABbJYTNJD2/hero-image.fill.size_1248x702.v1755614446.png",FOX ONE
