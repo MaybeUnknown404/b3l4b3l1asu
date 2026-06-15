@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/b88eacd4-c9d7-579d-97cd-ab122394685c?type=png&quality=75",🔴 FIFA World Cup 2026™: Sweden v Tunisia: Group F: Live Stream
-https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/80fd0b50-5132-5371-a7d6-f4da56ed3bda?type=png&quality=75",📅 FIFA World Cup 2026™: Spain v Cabo Verde: Group H: Live Stream [15/06/26 - 22:30]
 https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/6ca84d58-33f5-5e19-a551-183c8fa92a35?type=png&quality=75",📅 FIFA World Cup 2026™: Belgium v Egypt: Group G: Live Stream [16/06/26 - 01:30]
@@ -46,6 +44,8 @@ https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/eb4d7dac-7a37-50a0-8dd5-bda860bf32be?type=png&quality=75",📅 FIFA World Cup 2026™: Germany v Côte d'Ivoire: Group E: Live Stream [21/06/26 - 02:30]
 https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 #EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/5c333c0c-aac9-5fad-83b3-f4902f362b1c?type=png&quality=75",📅 FIFA World Cup 2026™: Ecuador v Curaçao: Group E: Live Stream [21/06/26 - 06:30]
+https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
+#EXTINF:-1 group-title="📁 SBS WC 26" tvg-logo="https://image.pr.sbsod.com/867754f8-96f6-5215-be54-c04c93bb5b8c?type=png&quality=75",📅 FIFA World Cup 2026™: Tunisia v Japan: Group F: Live Stream [21/06/26 - 10:30]
 https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/abd74a80262985.5cdc3e9f1493c.gif",SBS SPORTS
 https://qtv.my.id/testoken/com.m3u8?id=SBS_RTES
