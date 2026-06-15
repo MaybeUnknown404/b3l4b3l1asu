@@ -132,7 +132,13 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd#EXT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2tl905gfEKoaPDQolZJx2BB6oHM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-1-0a89d9.jpg", SANDS CHINA LTD Macau Open 2026
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2sWH66syU8NCf4FOePH1gpZve50=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137686/2cc7fb.jpg", Tan Jia Jie (MAS) vs Xiaodong Sheng (CAN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2tl905gfEKoaPDQolZJx2BB6oHM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-1-0a89d9.jpg", Tan Jia Jie (MAS) vs Xiaodong Sheng (CAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 
@@ -153,6 +159,78 @@ https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=w0OUxu9MuiQ4q
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vO-s8BKDr4NFHxQ278WG4Beyht8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-4-227873.jpg", SANDS CHINA LTD Macau Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/gbGMAMETMqbyE-raIG9aqrN3ATM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137687/8ff299.jpg", Tushar Suveer (IND) vs Christian Adinata (INA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/IhBLGusD1sLHbEu6x1pX78OyE0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137688/f6bb5b.jpg", Liao Li Xi/Shen Shi Yao (CHN) vs Hung Ho Yan/Wong Yan Lam Yanes (HKG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/tEthl-YuBe73lMRyTNtBLeCEB5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137689/02703a.jpg", Ng Weng Chi/Pui Chi Wa (MAC) vs Chloe Ho/Stella Pan (USA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/JKgLNxbZJeDXaK0qtyzxMgfVvas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137690/55a32a.jpg", Weeraphat Phakjarung/Tanupat Viriyangkura (THA) vs Jin Yong/Lee Jongmin (KOR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/pKthYvdA5WUtRihm4KKRKquxc0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137691/2136e2.jpg", TBD vs TBD | SANDS CHINA LTD. Macau Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DDWqE5DVzSotPDsIRqiJjaKdONA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137692/aa47aa.jpg", Lee Chun Hei Reginald/Wong Yan Lam Yanes (HKG) vs Song Hyun Cho/Jeong Na Eun (KOR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/CjFvJZXg-WmrQK5ZqnKVCriVtAQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137693/4cd553.jpg", Eng Keat Wesley Koh/Junsuke Kubo (SGP) vs Hung Kuei Chun/Lui Chun Wai (HKG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-msNtl0BIRZ1rDJ0ilOExR-KvMg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137694/9729d6.jpg", Bao Li Jing/Cao Zi Han (CHN) vs Chen Su Yu/Chen Han (TPE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/LBjY1E9Bma6Gp2mPXqRxzjNUOVg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137695/a1f4cf.jpg", Pui Chi Chon/Pui Pang Fong (MAC) vs Na Sung Seung/Wang Chan (KOR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vM9DyP4TaDaB9yPlPkstZ7o-iHc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137696/299a59.jpg", Luo Yi/Wang Ting Ge (CHN) vs Fan Ka Yan/Yau Mau Ying (HKG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/oNANc0YCIbQv8OtSxHScUwNqTdM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137697/b2a7a8.jpg", Choi Sol Gyu (KOR)/Goh V Shem (MAS) vs Chang Ko-Chi/Chen Sheng Fa (TPE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/_YpMdMx4ENoXN-75txWOoNkys18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137698/5296e6.jpg", Chia Weijie/Teo Ee Yi (MAS) vs Su Ching Heng/Tang Kai Wei (TPE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
