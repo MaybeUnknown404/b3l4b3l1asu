@@ -131,6 +131,30 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd#EXT
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18249&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/2tl905gfEKoaPDQolZJx2BB6oHM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-1-0a89d9.jpg", SANDS CHINA LTD Macau Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18249&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18250&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/DtnvsL3y9q1H_Fg4Kd86r8nRdi8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-2-56f639.jpg", SANDS CHINA LTD Macau Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18250&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18252&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/Apt8X2h9wycv0dd6YirAFr5Iu0o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-3-305de6.jpg", SANDS CHINA LTD Macau Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18252&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=18253&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/vO-s8BKDr4NFHxQ278WG4Beyht8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/sands-china-ltd-macau-open-2026-qualifiers-round-of-32-court-4-227873.jpg", SANDS CHINA LTD Macau Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=18253&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/ozrHOpptgEX9OTbKeic00Y0nQbw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5134866/5ada9a.jpg", Women: Dominican Republic vs United States
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
