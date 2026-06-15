@@ -209,6 +209,12 @@ https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=w0OUxu9MuiQ4q
 https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G8pRshPzkig07_9-7fVxHpjMEj4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137234/26f9e7.jpg", Women: Belgium vs Brazil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21603&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/-gWYYaCZ6Zb83fsuTN5Vjxg3qYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137230/741c3a.jpg", Women: Czechia vs United States
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -225,12 +231,6 @@ https://susu2.indi2.workers.dev/index.mpd?id=21604&type=dash&token=w0OUxu9MuiQ4q
 #EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/645vrk-mNx30MT09fFybZ6SYK9g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137231/9021dc.jpg", Women: Serbia vs Italy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://susu2.indi2.workers.dev/index.mpd?id=21603&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21616&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
-#EXTINF:-1 group-logo="" group-title="📅 Upcoming" tvg-logo="https://thumbor.prod.vidiocdn.com/G8pRshPzkig07_9-7fVxHpjMEj4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5137234/26f9e7.jpg", Women: Belgium vs Brazil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://susu2.indi2.workers.dev/index.mpd?id=21616&type=dash&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://susu2.indi2.workers.dev/index.drm?id=21604&type=drm&token=w0OUxu9MuiQ4qLHqic2PxZZFsS1j6Pmx
