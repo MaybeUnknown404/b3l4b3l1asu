@@ -1,5 +1,6 @@
 
-Error: Gagal mengambil data dari endpoint. HTTP Code: 0
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 #EXTINF:-1 group-title="📁 WORLDCUP 26 CH" tvg-logo="https://wpgh53.com/resources/media2/16x9/3840/986/center/90/32866b01-5a4a-4860-9723-f51ff43a9a7c-wcu.png",FOX ONE
@@ -79,5 +80,5 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd
 
 #EXTM3U
 
+Error mengambil data dari API.
 
-#EXTM3U
