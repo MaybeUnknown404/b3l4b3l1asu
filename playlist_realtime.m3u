@@ -1,4 +1,13 @@
-cURL Error #:Could not resolve host: catalogue.pr.sbsod.com
+
+#EXTM3U
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/Z6ivW7gVSyI/hqdefault.jpg?v=6a31ed16&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlxFIWlUHQnCUs-pWf4qRFM4N_vA" group-title="🔴 BWF Championship",SANDS CHINA LTD. Macau Open 2026 | Day 2 | Court 4 | Round of 32
+https://qtv.my.id/testoken/com.m3u8?id=Z6ivW7gVSyI
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/7LGcLXMGy9I/hqdefault.jpg?v=6a31ecb8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCor3fbPepMxOHGxERccXCTRs6Vww" group-title="🔴 BWF Championship",SANDS CHINA LTD. Macau Open 2026 | Day 2 | Court 3 | Round of 32
+https://qtv.my.id/testoken/com.m3u8?id=7LGcLXMGy9I
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/JgQ1r1i9oiY/hqdefault.jpg?v=6a31ec38&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBROjiMQwZK36BeVu8q56T7d2dSyg" group-title="🔴 BWF Championship",SANDS CHINA LTD. Macau Open 2026 | Day 2 | Court 2 | Round of 32
+https://qtv.my.id/testoken/com.m3u8?id=JgQ1r1i9oiY
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/MsnJOzPPoPQ/hqdefault.jpg?v=6a31eba0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy4Bin0QWDOz6qKXV2rGT-ineSdQ" group-title="🔴 BWF Championship",SANDS CHINA LTD. Macau Open 2026 | Day 2 | Court 1 | Round of 32
+https://qtv.my.id/testoken/com.m3u8?id=MsnJOzPPoPQ
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
