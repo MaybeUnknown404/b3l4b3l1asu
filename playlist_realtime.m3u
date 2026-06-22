@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/poster/22Jun_ESP-KSA.jpg?w=960&h=540" group-title="🔴 WC 26 Livenow",🔴 Group Stage: Spain v Saudi Arabia
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vdGFpay5tcGQ_aWQ9RklGQVdDQ2gx.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vdGFpay5tcGQ_aWQ9RklGQVdDQ2gx.mpd
 #EXTM3U
 #EXTINF:-1 group-title="🔴 WC 26 Livenow" tvg-logo="https://static-media.fox.com/fmc/prod/artwork/VX-16341765/956px5ng9naq8eb1.png",🔴 FIFA World Cup on FOX After Hours with James Corden
 https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vZm94b25lLm0zdTg_aWQ9RlNEMDA4XzdmZGIwNjQzLTljNWUtNDlmNS1hMjIyLWM4ZDkzNWRmMmMzMV9jbG9uZSZ0eXBlPWhscw==.m3u8
@@ -78,13 +78,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8?signature=E79jD6e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.starhub.com/content/dam/starhub/2026/business/ebg/fifa-world-cup/SH-IPTV-FIFA-Tile.jpg" group-title="📁 WORLDCUP 26 CH",Starhub CH1
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vdGFpay5tcGQ_aWQ9RklGQVdDQ2gx.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vdGFpay5tcGQ_aWQ9RklGQVdDQ2gx.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e947fce17d642db9c1a0c45bf718011:dd096e4212597bb1948a78e12490a2ef
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.starhub.com/content/dam/starhub/2026/business/ebg/fifa-world-cup/SH-IPTV-FIFA-Tile.jpg" group-title="📁 WORLDCUP 26 CH",Starhub CH2
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vdGFpay5tcGQ_aWQ9RklGQVdDQ2gy.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vdGFpay5tcGQ_aWQ9RklGQVdDQ2gy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
@@ -185,59 +185,59 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd#EXT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304066&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02155328-esreezpodziswfu1.png" group-title="📅 World Cup 26",⏳ Argentina - Austria
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2NiZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2NiZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304067&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02155636-0gybi4dpmallbwwu.png" group-title="📅 World Cup 26",⏳ France - Iraq
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2NyZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2NyZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304068&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02155753-locp3a75f5wxqv9g.png" group-title="📅 World Cup 26",⏳ Norway - Senegal
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2OCZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2OCZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304069&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02160216-5ahnh0wa5oc3r4ca.png" group-title="📅 World Cup 26",⏳ Jordan - Algeria
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2OSZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2OSZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304070&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02160435-9pz2yq6zlwo3xhto.png" group-title="📅 World Cup 26",⏳ Portugal - Uzbekistan
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3MCZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3MCZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304071&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02160850-kpafwcs7xdaxrjn8.png" group-title="📅 World Cup 26",⏳ England - Ghana
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3MSZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3MSZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304073&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02161155-ullb5omlevrewywm.png" group-title="📅 World Cup 26",⏳ Panama - Croatia
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3MyZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3MyZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304074&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02161556-pjhi7ab8zrlxy3tj.png" group-title="📅 World Cup 26",⏳ Colombia - D.R. Congo
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3NCZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3NCZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304075&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02162809-whtuhf2xust2ju8v.png" group-title="📅 World Cup 26",⏳ Switzerland - Canada
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3NSZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3NSZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304076&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02162904-tw12eoavcjobbj8l.png" group-title="📅 World Cup 26",⏳ Bosnia & Herzegovina - Qatar
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3NiZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3NiZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304011&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02150752-zb98fhqekx9lkhda.png" group-title="📅 World Cup 26",⏳ Morocco - Haiti
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDAxMSZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDAxMSZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/testoken/malingsokhebat.taik?id=304077&type=drm
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02163052-un9ywbecsmv4hnp8.png" group-title="📅 World Cup 26",⏳ Scotland - Brazil
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3NyZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.m3u8
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA3NyZ0eXBlPWRhc2h8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTM5LjAuMC4wIFNhZmFyaS81MzcuMzY=.mpd
