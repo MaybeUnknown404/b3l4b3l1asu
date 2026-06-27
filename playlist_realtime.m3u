@@ -10,14 +10,14 @@ https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpb
 https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA1OCZ0eXBlPWRhc2g.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hayo.ajtv.web.id/proxy_drm/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vbWFsaW5nc29raGViYXQudGFpaz9pZD0zMDQwNjImdHlwZT1kcm0
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/02155136-advpoczphx9xpopa.png" group-title="📅 World Cup 26",⏳ D.R. Congo - Uzbekistan
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2MiZ0eXBlPWRhc2g.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hayo.ajtv.web.id/proxy_drm/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vbWFsaW5nc29raGViYXQudGFpaz9pZD0zMDQwNjAmdHlwZT1kcm0
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/304060/original/latest.jpg" group-title="📅 World Cup 26",⏳ Colombia - Portugal
 https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2MCZ0eXBlPWRhc2g.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hayo.ajtv.web.id/proxy_drm/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vbWFsaW5nc29raGViYXQudGFpaz9pZD0zMDQwNjImdHlwZT1kcm0
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/304062/original/latest.jpg" group-title="📅 World Cup 26",⏳ D.R. Congo - Uzbekistan
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNDA2MiZ0eXBlPWRhc2g.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hayo.ajtv.web.id/proxy_drm/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vbWFsaW5nc29raGViYXQudGFpaz9pZD0zMDQwNjMmdHlwZT1kcm0
@@ -71,25 +71,25 @@ https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpb
 
 #EXTM3U
 #EXTINF:-1 group-title="🔴 WC 26 Livenow" tvg-logo="https://image.pr.sbsod.com/0849a652-0a60-5103-979c-652fdd7b6cfd?type=png&quality=75",🔴 Panama v England: Group L: Live Stream
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPXdtMmlxVHlFbHM.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPXQ4Q3dNMlF6RmI.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="🔴 WC 26 Livenow" tvg-logo="https://image.pr.sbsod.com/0ac73118-0041-55bb-be0a-0281352cd2b5?type=png&quality=75",🔴 Croatia v Ghana: Group L: Live Stream
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPUN2ck50UW1hS0k.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPUxrUzhUdXpjRzQ.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/52d0d1d4-deb6-5464-9c03-46b0337c9cb5?type=png&quality=75",📅 Colombia v Portugal: Group K: Live Stream [28/06/26 - 06:00]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPU55VHFwTFAwS3c.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPXVvY096NXhXWmQ.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/2e6ef0d3-a772-5548-98a0-3e966de49ccf?type=png&quality=75",📅 Congo DR v Uzbekistan: Group K: Live Stream [28/06/26 - 06:00]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPUE2UGxmYlY5OEM.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPTlMYlhXNXB0RDM.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/bee9163a-d313-58d5-b10e-d0b223b203e0?type=png&quality=75",📅 Jordan v Argentina: Group J: Live Stream [28/06/26 - 08:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPThmSWtwMDNqaEE.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPXFTS2t3N2J1Uko.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/8c38eeba-76df-5dbb-9118-d9c0c0673d48?type=png&quality=75",📅 Algeria v Austria: Group J: Live Stream [28/06/26 - 08:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPWpGQ1hOMUl4N2Y.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPUU5N3RrYTY4d2Q.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/44a49681-3207-54bb-b22a-7b988a347a41?type=png&quality=75",📅 South Africa v Canada: Round of 32: Live Stream [29/06/26 - 01:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPVUyY3R1d0RzT0s.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPTVTcnpkS0RYbzc.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/285119f4-148d-5c62-8646-7e1755b78dad?type=png&quality=75",📅 Brazil v Japan: Round of 32: Live Stream [29/06/26 - 23:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPTF5ZFdUa1lwSXE.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPUJNd1ZyUmhreTc.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/45fe565d-1762-5247-be03-ff4b5aad06d1?type=png&quality=75",📅 Netherlands v Morocco: Round of 32: Live Stream [30/06/26 - 07:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPXFnRXZHbmFMUE0.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPXI5T2pTSE04RFA.m3u8|referer=https://www.rtbgo.bn/
 #EXTM3U
-#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/LBEne_yF3IU/hqdefault.jpg?v=6a3fe9b0&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBhAjt0g1HHHsmHAbs0GjUN3J1XeQ" group-title="🔴 BWF Championship",YONEX US Open 2026 | Chen/Lin (TPE) [4] vs Kjær/Kjær (DEN) | SF
+#EXTINF:-1 tvg-id="BWF" tvg-logo="https://i.ytimg.com/vi/LBEne_yF3IU/hqdefault.jpg?v=6a3fe9b0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaiOFNypX-7nOc0ABwbUaiOUXxPg" group-title="🔴 BWF Championship",YONEX US Open 2026 | Chen/Lin (TPE) [4] vs Kjær/Kjær (DEN) | SF
 https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9TEJFbmVfeUYzSVU.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
