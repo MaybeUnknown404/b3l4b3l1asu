@@ -1,10 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hayo.ajtv.web.id/proxy_drm/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vbWFsaW5nc29raGViYXQudGFpaz9pZD0zMDUyODUmdHlwZT1kcm0
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/thumbnails/305285/original/latest.jpg" group-title="🔴 WC 26 Livenow",🔴 USA - Bosnia & Herzegovina
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNTI4NSZ0eXBlPWRhc2g.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hayo.ajtv.web.id/proxy_drm/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vbWFsaW5nc29raGViYXQudGFpaz9pZD0zMDUyODYmdHlwZT1kcm0
 #EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/06/29112826-aiuzfcpjrpreievf.png" group-title="📅 World Cup 26",⏳ Spain - Austria
 https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpbW9kYWwubXBkP2lkPTMwNTI4NiZ0eXBlPWRhc2g.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -66,25 +61,25 @@ https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vcGFoYW1hcnRpb
 
 #EXTM3U
 #EXTINF:-1 group-title="🔴 WC 26 Livenow" tvg-logo="https://image.pr.sbsod.com/401b38d7-7722-5543-8afa-b4fabe0e7ff2?type=png&quality=75",🔴 USA v Bosnia and Herzegovina: Round of 32: Live Stream
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPUlUNURvUkd0RTQ.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPVRuWWVVaDZOdjc.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/7579f43f-e058-53c9-a9b3-963753b76033?type=png&quality=75",📅 Spain v Austria: Round of 32: Live Stream [03/07/26 - 01:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPXhhb09nZFM2MGg.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPXlZZGlabE9yQUQ.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/fa9baf9c-6bfa-5e90-bc59-6824d9a1488b?type=png&quality=75",📅 Portugal v Croatia: Round of 32: Live Stream [03/07/26 - 05:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPVlYMDdJM25xUEg.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPUJMT1B1SWRzM2U.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/2b2d3119-b9c9-5c35-911a-4aff569acc4b?type=png&quality=75",📅 Switzerland v Algeria: Round of 32: Live Stream [03/07/26 - 09:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPWV2a2Z5dWxtR2k.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPVJFT0dxTDBNZ1k.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/74f8310f-e214-5b82-a848-abceafb90a1b?type=png&quality=75",📅 Australia v Egypt: Round of 32: Live Stream [04/07/26 - 00:00]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPU15MzBTUlFYcVY.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPTREc1Rrd0NNbG0.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/9ef2cd8c-a593-5dbb-97d0-42f3deb1ee5a?type=png&quality=75",📅 Argentina v Cabo Verde: Round of 32: Live Stream [04/07/26 - 04:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPWdmNXcxQU9qbjI.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPU8zaGp4NWZlUW8.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/ee95c87d-1c5c-5e9f-9681-22447c2ab31e?type=png&quality=75",📅 Colombia v Ghana: Round of 32: Live Stream [04/07/26 - 08:00]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPURjcEtMblJtbG8.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPWhxOVJ4TERvVDI.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/05f7dc6d-8727-53b2-b911-b1027ecebbb1?type=png&quality=75",📅 Canada v Morocco: Round of 16: Live Stream [04/07/26 - 23:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPTB1ZFBOOE16WWo.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPVRTbHpHWnBjb0Q.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/a23ad44d-f6c3-5d13-9661-e720984abe0b?type=png&quality=75",📅 Paraguay v France: Round of 16: Live Stream [05/07/26 - 03:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPUlUdXdDdjByN2Y.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9U0JTX1JURVMmc2lnbmF0dXJlPU9tUkUxbDA3ZHA.m3u8|referer=https://www.rtbgo.bn/
 #EXTINF:-1 group-title="📅 World Cup 26" tvg-logo="https://image.pr.sbsod.com/74d88b57-e32b-5a0d-85d8-b0d7beca60a4?type=png&quality=75",📅 Brazil v Norway: Round of 16: Live Stream [06/07/26 - 02:30]
-https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPXQwZUtxdk43eE0.m3u8|referer=https://www.rtbgo.bn/
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9c2JzX3ZpY2Umc2lnbmF0dXJlPVV1UlhhbzNTeHA.m3u8|referer=https://www.rtbgo.bn/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.interakt.shop/wp-content/uploads/2023/12/Starhub.png" group-title="📁 WORLDCUP 26 CH",Starhub CH1
